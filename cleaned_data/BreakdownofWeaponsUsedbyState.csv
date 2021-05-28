@@ -1,0 +1,780 @@
+State,Weapon,Total Weapon Count
+Alabama,Handgun,6352
+Alabama,Knife,1632
+Alabama,Shotgun,1028
+Alabama,Unknown,1017
+Alabama,Blunt Object,776
+Alabama,Rifle,393
+Alabama,Firearm,96
+Alabama,Strangulation,26
+Alabama,Fire,24
+Alabama,Drowning,13
+Alabama,Suffocation,8
+Alabama,Poison,4
+Alabama,Explosives,3
+Alabama,Gun,3
+Alabama,Drugs,1
+Alaska,Handgun,548
+Alaska,Knife,243
+Alaska,Blunt Object,200
+Alaska,Rifle,193
+Alaska,Firearm,122
+Alaska,Unknown,102
+Alaska,Shotgun,95
+Alaska,Strangulation,28
+Alaska,Suffocation,28
+Alaska,Fire,26
+Alaska,Drowning,11
+Alaska,Drugs,8
+Alaska,Gun,7
+Alaska,Explosives,2
+Alaska,Fall,2
+Alaska,Poison,2
+Arizona,Handgun,7054
+Arizona,Knife,1629
+Arizona,Blunt Object,1476
+Arizona,Firearm,639
+Arizona,Rifle,611
+Arizona,Shotgun,493
+Arizona,Unknown,492
+Arizona,Strangulation,174
+Arizona,Suffocation,90
+Arizona,Fire,71
+Arizona,Drugs,55
+Arizona,Gun,38
+Arizona,Drowning,36
+Arizona,Explosives,6
+Arizona,Fall,4
+Arizona,Poison,3
+Arkansas,Handgun,3180
+Arkansas,Knife,905
+Arkansas,Firearm,602
+Arkansas,Shotgun,598
+Arkansas,Blunt Object,591
+Arkansas,Rifle,456
+Arkansas,Unknown,335
+Arkansas,Strangulation,99
+Arkansas,Fire,81
+Arkansas,Gun,32
+Arkansas,Suffocation,31
+Arkansas,Drowning,16
+Arkansas,Drugs,10
+Arkansas,Poison,6
+Arkansas,Explosives,5
+California,Handgun,55429
+California,Knife,14989
+California,Blunt Object,10195
+California,Shotgun,4371
+California,Firearm,4327
+California,Rifle,4103
+California,Unknown,2533
+California,Strangulation,1865
+California,Suffocation,760
+California,Fire,624
+California,Drowning,240
+California,Drugs,180
+California,Poison,77
+California,Explosives,50
+California,Gun,40
+Colorado,Handgun,2705
+Colorado,Knife,1200
+Colorado,Blunt Object,974
+Colorado,Firearm,505
+Colorado,Unknown,380
+Colorado,Shotgun,242
+Colorado,Rifle,239
+Colorado,Suffocation,94
+Colorado,Strangulation,89
+Colorado,Fire,57
+Colorado,Gun,44
+Colorado,Drugs,31
+Colorado,Drowning,22
+Colorado,Explosives,6
+Colorado,Poison,4
+Colorado,Fall,1
+Connecticut,Handgun,2332
+Connecticut,Knife,847
+Connecticut,Blunt Object,529
+Connecticut,Firearm,463
+Connecticut,Unknown,188
+Connecticut,Shotgun,146
+Connecticut,Fire,112
+Connecticut,Rifle,111
+Connecticut,Strangulation,65
+Connecticut,Suffocation,47
+Connecticut,Drugs,24
+Connecticut,Gun,9
+Connecticut,Drowning,8
+Connecticut,Explosives,6
+Connecticut,Fall,6
+Connecticut,Poison,3
+Delaware,Handgun,444
+Delaware,Knife,224
+Delaware,Blunt Object,154
+Delaware,Firearm,140
+Delaware,Unknown,72
+Delaware,Shotgun,68
+Delaware,Rifle,33
+Delaware,Fire,11
+Delaware,Suffocation,11
+Delaware,Strangulation,10
+Delaware,Drowning,6
+Delaware,Drugs,3
+Delaware,Gun,2
+Delaware,Fall,1
+District of Columbia,Handgun,3853
+District of Columbia,Firearm,1433
+District of Columbia,Knife,1009
+District of Columbia,Blunt Object,435
+District of Columbia,Unknown,153
+District of Columbia,Strangulation,85
+District of Columbia,Shotgun,41
+District of Columbia,Suffocation,38
+District of Columbia,Fire,34
+District of Columbia,Drowning,8
+District of Columbia,Gun,8
+District of Columbia,Rifle,8
+District of Columbia,Fall,4
+District of Columbia,Poison,4
+District of Columbia,Drugs,2
+Florida,Handgun,14213
+Florida,Firearm,7105
+Florida,Knife,4916
+Florida,Blunt Object,4102
+Florida,Unknown,3979
+Florida,Shotgun,1072
+Florida,Rifle,1052
+Florida,Fire,248
+Florida,Strangulation,191
+Florida,Drugs,102
+Florida,Suffocation,73
+Florida,Drowning,56
+Florida,Gun,22
+Florida,Poison,17
+Florida,Explosives,12
+Florida,Fall,4
+Georgia,Handgun,11900
+Georgia,Knife,2965
+Georgia,Blunt Object,1776
+Georgia,Unknown,1135
+Georgia,Firearm,985
+Georgia,Shotgun,955
+Georgia,Rifle,654
+Georgia,Strangulation,360
+Georgia,Fire,129
+Georgia,Suffocation,88
+Georgia,Gun,71
+Georgia,Drowning,26
+Georgia,Drugs,23
+Georgia,Explosives,8
+Georgia,Fall,7
+Georgia,Poison,6
+Hawaii,Blunt Object,394
+Hawaii,Handgun,357
+Hawaii,Knife,294
+Hawaii,Unknown,73
+Hawaii,Rifle,69
+Hawaii,Shotgun,46
+Hawaii,Strangulation,26
+Hawaii,Firearm,23
+Hawaii,Fire,22
+Hawaii,Suffocation,16
+Hawaii,Fall,8
+Hawaii,Drowning,4
+Hawaii,Drugs,4
+Hawaii,Explosives,1
+Hawaii,Gun,1
+Idaho,Handgun,418
+Idaho,Blunt Object,190
+Idaho,Knife,158
+Idaho,Rifle,118
+Idaho,Unknown,81
+Idaho,Shotgun,65
+Idaho,Firearm,54
+Idaho,Suffocation,17
+Idaho,Fire,12
+Idaho,Strangulation,10
+Idaho,Gun,9
+Idaho,Poison,8
+Idaho,Drugs,6
+Idaho,Drowning,3
+Idaho,Explosives,1
+Illinois,Handgun,15492
+Illinois,Knife,3660
+Illinois,Blunt Object,2402
+Illinois,Firearm,1364
+Illinois,Unknown,1154
+Illinois,Shotgun,590
+Illinois,Strangulation,431
+Illinois,Rifle,343
+Illinois,Fire,189
+Illinois,Suffocation,102
+Illinois,Gun,44
+Illinois,Drowning,41
+Illinois,Drugs,24
+Illinois,Fall,17
+Illinois,Poison,11
+Illinois,Explosives,7
+Indiana,Handgun,6036
+Indiana,Knife,1327
+Indiana,Blunt Object,1118
+Indiana,Firearm,1030
+Indiana,Shotgun,609
+Indiana,Unknown,487
+Indiana,Rifle,429
+Indiana,Fire,159
+Indiana,Strangulation,155
+Indiana,Suffocation,48
+Indiana,Drugs,18
+Indiana,Drowning,15
+Indiana,Fall,9
+Indiana,Poison,9
+Indiana,Explosives,7
+Indiana,Gun,7
+Iowa,Handgun,517
+Iowa,Knife,344
+Iowa,Blunt Object,336
+Iowa,Unknown,138
+Iowa,Shotgun,137
+Iowa,Firearm,127
+Iowa,Rifle,67
+Iowa,Fire,33
+Iowa,Suffocation,17
+Iowa,Gun,13
+Iowa,Strangulation,13
+Iowa,Drugs,4
+Iowa,Drowning,2
+Iowa,Poison,1
+Kansas,Handgun,1211
+Kansas,Blunt Object,410
+Kansas,Knife,397
+Kansas,Firearm,315
+Kansas,Unknown,306
+Kansas,Shotgun,186
+Kansas,Rifle,145
+Kansas,Suffocation,35
+Kansas,Fire,26
+Kansas,Strangulation,25
+Kansas,Drugs,9
+Kansas,Gun,9
+Kansas,Explosives,7
+Kansas,Drowning,2
+Kansas,Poison,2
+Kentucky,Handgun,3269
+Kentucky,Knife,779
+Kentucky,Blunt Object,763
+Kentucky,Shotgun,517
+Kentucky,Rifle,353
+Kentucky,Unknown,346
+Kentucky,Firearm,337
+Kentucky,Fire,63
+Kentucky,Strangulation,47
+Kentucky,Suffocation,26
+Kentucky,Drugs,21
+Kentucky,Gun,14
+Kentucky,Drowning,10
+Kentucky,Poison,7
+Kentucky,Explosives,2
+Louisiana,Handgun,12266
+Louisiana,Knife,2243
+Louisiana,Blunt Object,1394
+Louisiana,Firearm,1066
+Louisiana,Shotgun,829
+Louisiana,Rifle,734
+Louisiana,Unknown,598
+Louisiana,Strangulation,160
+Louisiana,Fire,115
+Louisiana,Gun,70
+Louisiana,Suffocation,67
+Louisiana,Drowning,47
+Louisiana,Drugs,24
+Louisiana,Poison,8
+Louisiana,Explosives,5
+Louisiana,Fall,3
+Maine,Handgun,233
+Maine,Blunt Object,168
+Maine,Knife,145
+Maine,Rifle,87
+Maine,Firearm,71
+Maine,Shotgun,70
+Maine,Unknown,35
+Maine,Strangulation,26
+Maine,Fire,18
+Maine,Drowning,7
+Maine,Suffocation,6
+Maine,Poison,2
+Maine,Fall,1
+Maryland,Handgun,10906
+Maryland,Knife,2598
+Maryland,Blunt Object,1611
+Maryland,Shotgun,624
+Maryland,Unknown,578
+Maryland,Rifle,278
+Maryland,Strangulation,204
+Maryland,Firearm,186
+Maryland,Fire,143
+Maryland,Suffocation,91
+Maryland,Drugs,30
+Maryland,Drowning,25
+Maryland,Gun,22
+Maryland,Explosives,7
+Maryland,Poison,7
+Maryland,Fall,2
+Massachusetts,Handgun,1890
+Massachusetts,Knife,1552
+Massachusetts,Firearm,949
+Massachusetts,Blunt Object,683
+Massachusetts,Unknown,348
+Massachusetts,Fire,139
+Massachusetts,Shotgun,132
+Massachusetts,Strangulation,129
+Massachusetts,Rifle,97
+Massachusetts,Suffocation,67
+Massachusetts,Gun,16
+Massachusetts,Drugs,13
+Massachusetts,Drowning,7
+Massachusetts,Explosives,5
+Massachusetts,Poison,5
+Massachusetts,Fall,4
+Michigan,Handgun,11657
+Michigan,Firearm,4350
+Michigan,Knife,3593
+Michigan,Blunt Object,2709
+Michigan,Shotgun,1871
+Michigan,Unknown,1612
+Michigan,Rifle,1488
+Michigan,Fire,399
+Michigan,Strangulation,349
+Michigan,Suffocation,151
+Michigan,Gun,77
+Michigan,Drugs,71
+Michigan,Explosives,52
+Michigan,Drowning,40
+Michigan,Poison,23
+Michigan,Fall,6
+Minnesota,Handgun,1628
+Minnesota,Knife,775
+Minnesota,Blunt Object,639
+Minnesota,Shotgun,237
+Minnesota,Unknown,195
+Minnesota,Rifle,183
+Minnesota,Strangulation,82
+Minnesota,Drugs,62
+Minnesota,Fire,56
+Minnesota,Firearm,40
+Minnesota,Suffocation,40
+Minnesota,Drowning,21
+Minnesota,Poison,6
+Minnesota,Gun,5
+Minnesota,Explosives,3
+Minnesota,Fall,3
+Mississippi,Handgun,3684
+Mississippi,Knife,917
+Mississippi,Blunt Object,580
+Mississippi,Shotgun,458
+Mississippi,Rifle,268
+Mississippi,Unknown,249
+Mississippi,Firearm,229
+Mississippi,Fire,43
+Mississippi,Strangulation,41
+Mississippi,Suffocation,31
+Mississippi,Drowning,16
+Mississippi,Gun,14
+Mississippi,Drugs,5
+Mississippi,Fall,5
+Mississippi,Explosives,3
+Mississippi,Poison,3
+Missouri,Handgun,5536
+Missouri,Firearm,3132
+Missouri,Knife,1717
+Missouri,Blunt Object,1271
+Missouri,Unknown,1038
+Missouri,Shotgun,715
+Missouri,Rifle,624
+Missouri,Strangulation,228
+Missouri,Fire,152
+Missouri,Suffocation,138
+Missouri,Gun,118
+Missouri,Drugs,94
+Missouri,Drowning,33
+Missouri,Explosives,18
+Missouri,Poison,13
+Missouri,Fall,5
+Montana,Handgun,225
+Montana,Knife,101
+Montana,Blunt Object,85
+Montana,Rifle,69
+Montana,Unknown,41
+Montana,Shotgun,32
+Montana,Firearm,24
+Montana,Suffocation,10
+Montana,Gun,5
+Montana,Strangulation,4
+Montana,Drowning,2
+Montana,Poison,2
+Montana,Drugs,1
+Nebraska,Handgun,527
+Nebraska,Blunt Object,206
+Nebraska,Knife,205
+Nebraska,Shotgun,86
+Nebraska,Rifle,83
+Nebraska,Unknown,82
+Nebraska,Firearm,60
+Nebraska,Suffocation,28
+Nebraska,Strangulation,23
+Nebraska,Fire,16
+Nebraska,Drowning,6
+Nebraska,Drugs,3
+Nebraska,Fall,3
+Nebraska,Explosives,1
+Nebraska,Gun,1
+Nebraska,Poison,1
+Nevada,Handgun,2525
+Nevada,Knife,793
+Nevada,Blunt Object,735
+Nevada,Firearm,483
+Nevada,Unknown,324
+Nevada,Shotgun,192
+Nevada,Rifle,186
+Nevada,Strangulation,163
+Nevada,Suffocation,50
+Nevada,Fire,46
+Nevada,Drugs,20
+Nevada,Drowning,15
+Nevada,Gun,12
+Nevada,Explosives,5
+Nevada,Poison,3
+Nevada,Fall,1
+New Hampshire,Handgun,182
+New Hampshire,Knife,135
+New Hampshire,Blunt Object,134
+New Hampshire,Unknown,48
+New Hampshire,Rifle,41
+New Hampshire,Shotgun,40
+New Hampshire,Firearm,30
+New Hampshire,Fire,18
+New Hampshire,Suffocation,11
+New Hampshire,Drugs,6
+New Hampshire,Strangulation,6
+New Hampshire,Gun,3
+New Hampshire,Drowning,1
+New Jersey,Handgun,6790
+New Jersey,Knife,2938
+New Jersey,Blunt Object,2165
+New Jersey,Unknown,489
+New Jersey,Firearm,409
+New Jersey,Shotgun,331
+New Jersey,Fire,329
+New Jersey,Strangulation,292
+New Jersey,Rifle,160
+New Jersey,Suffocation,112
+New Jersey,Drugs,41
+New Jersey,Drowning,28
+New Jersey,Explosives,14
+New Jersey,Poison,14
+New Jersey,Gun,12
+New Jersey,Fall,8
+New Mexico,Handgun,1787
+New Mexico,Knife,772
+New Mexico,Blunt Object,595
+New Mexico,Unknown,339
+New Mexico,Rifle,261
+New Mexico,Firearm,219
+New Mexico,Shotgun,168
+New Mexico,Strangulation,51
+New Mexico,Suffocation,28
+New Mexico,Fire,19
+New Mexico,Drugs,14
+New Mexico,Drowning,9
+New Mexico,Gun,5
+New Mexico,Explosives,4
+New Mexico,Poison,1
+New York,Handgun,26452
+New York,Knife,9347
+New York,Blunt Object,5714
+New York,Unknown,2381
+New York,Firearm,2078
+New York,Shotgun,1283
+New York,Fire,723
+New York,Rifle,624
+New York,Strangulation,282
+New York,Suffocation,176
+New York,Gun,58
+New York,Explosives,45
+New York,Poison,44
+New York,Drowning,27
+New York,Fall,18
+New York,Drugs,16
+North Carolina,Handgun,9217
+North Carolina,Knife,2859
+North Carolina,Blunt Object,2017
+North Carolina,Unknown,1931
+North Carolina,Shotgun,1813
+North Carolina,Rifle,1225
+North Carolina,Gun,837
+North Carolina,Fire,139
+North Carolina,Firearm,111
+North Carolina,Strangulation,94
+North Carolina,Suffocation,66
+North Carolina,Drugs,37
+North Carolina,Poison,20
+North Carolina,Drowning,16
+North Carolina,Fall,5
+North Carolina,Explosives,3
+North Dakota,Handgun,69
+North Dakota,Blunt Object,53
+North Dakota,Knife,50
+North Dakota,Unknown,43
+North Dakota,Shotgun,31
+North Dakota,Rifle,29
+North Dakota,Firearm,18
+North Dakota,Strangulation,4
+North Dakota,Suffocation,4
+North Dakota,Drowning,2
+North Dakota,Drugs,2
+North Dakota,Fire,2
+North Dakota,Poison,1
+Ohio,Handgun,9204
+Ohio,Knife,2466
+Ohio,Blunt Object,2342
+Ohio,Unknown,1506
+Ohio,Firearm,1493
+Ohio,Shotgun,911
+Ohio,Rifle,359
+Ohio,Fire,315
+Ohio,Strangulation,209
+Ohio,Suffocation,138
+Ohio,Drugs,73
+Ohio,Gun,58
+Ohio,Drowning,34
+Ohio,Poison,31
+Ohio,Explosives,14
+Ohio,Fall,5
+Oklahoma,Handgun,4168
+Oklahoma,Knife,1232
+Oklahoma,Blunt Object,1151
+Oklahoma,Shotgun,624
+Oklahoma,Rifle,561
+Oklahoma,Unknown,364
+Oklahoma,Firearm,188
+Oklahoma,Explosives,158
+Oklahoma,Strangulation,112
+Oklahoma,Fire,103
+Oklahoma,Suffocation,61
+Oklahoma,Drugs,27
+Oklahoma,Drowning,24
+Oklahoma,Gun,22
+Oklahoma,Poison,12
+Oklahoma,Fall,2
+Oregon,Handgun,1419
+Oregon,Knife,712
+Oregon,Blunt Object,581
+Oregon,Rifle,333
+Oregon,Firearm,324
+Oregon,Shotgun,214
+Oregon,Unknown,210
+Oregon,Strangulation,179
+Oregon,Suffocation,80
+Oregon,Gun,52
+Oregon,Fire,41
+Oregon,Drowning,29
+Oregon,Drugs,17
+Oregon,Fall,11
+Oregon,Explosives,9
+Oregon,Poison,6
+Pennsylvania,Handgun,13302
+Pennsylvania,Knife,3377
+Pennsylvania,Blunt Object,2386
+Pennsylvania,Firearm,1198
+Pennsylvania,Unknown,1141
+Pennsylvania,Shotgun,842
+Pennsylvania,Rifle,690
+Pennsylvania,Fire,456
+Pennsylvania,Strangulation,308
+Pennsylvania,Suffocation,208
+Pennsylvania,Gun,114
+Pennsylvania,Drugs,92
+Pennsylvania,Drowning,64
+Pennsylvania,Poison,24
+Pennsylvania,Explosives,18
+Pennsylvania,Fall,16
+Rhodes Island,Handgun,315
+Rhodes Island,Knife,252
+Rhodes Island,Firearm,231
+Rhodes Island,Blunt Object,184
+Rhodes Island,Unknown,91
+Rhodes Island,Shotgun,45
+Rhodes Island,Strangulation,26
+Rhodes Island,Rifle,23
+Rhodes Island,Suffocation,16
+Rhodes Island,Fire,10
+Rhodes Island,Drugs,8
+Rhodes Island,Explosives,6
+Rhodes Island,Drowning,2
+Rhodes Island,Fall,1
+Rhodes Island,Gun,1
+South Carolina,Handgun,5515
+South Carolina,Knife,1675
+South Carolina,Blunt Object,1258
+South Carolina,Shotgun,973
+South Carolina,Firearm,864
+South Carolina,Unknown,537
+South Carolina,Rifle,533
+South Carolina,Fire,129
+South Carolina,Suffocation,94
+South Carolina,Gun,40
+South Carolina,Strangulation,37
+South Carolina,Drugs,23
+South Carolina,Drowning,11
+South Carolina,Poison,5
+South Carolina,Fall,3
+South Carolina,Explosives,1
+South Dakota,Blunt Object,102
+South Dakota,Handgun,95
+South Dakota,Knife,80
+South Dakota,Unknown,40
+South Dakota,Rifle,38
+South Dakota,Shotgun,29
+South Dakota,Firearm,24
+South Dakota,Suffocation,16
+South Dakota,Strangulation,7
+South Dakota,Fire,6
+South Dakota,Drugs,4
+South Dakota,Poison,1
+Tennessee,Handgun,7255
+Tennessee,Knife,2015
+Tennessee,Firearm,1391
+Tennessee,Blunt Object,1381
+Tennessee,Shotgun,994
+Tennessee,Unknown,944
+Tennessee,Rifle,558
+Tennessee,Fire,117
+Tennessee,Strangulation,76
+Tennessee,Suffocation,71
+Tennessee,Gun,58
+Tennessee,Drugs,42
+Tennessee,Drowning,11
+Tennessee,Poison,9
+Tennessee,Explosives,5
+Tennessee,Fall,3
+Texas,Handgun,29843
+Texas,Knife,9656
+Texas,Blunt Object,6217
+Texas,Firearm,5165
+Texas,Shotgun,3864
+Texas,Unknown,2875
+Texas,Rifle,2713
+Texas,Strangulation,798
+Texas,Fire,306
+Texas,Suffocation,290
+Texas,Drowning,124
+Texas,Gun,108
+Texas,Drugs,83
+Texas,Poison,25
+Texas,Explosives,17
+Texas,Fall,11
+Utah,Handgun,772
+Utah,Blunt Object,350
+Utah,Knife,331
+Utah,Unknown,154
+Utah,Firearm,138
+Utah,Rifle,88
+Utah,Shotgun,74
+Utah,Suffocation,31
+Utah,Drugs,25
+Utah,Strangulation,25
+Utah,Fire,17
+Utah,Gun,16
+Utah,Drowning,5
+Utah,Explosives,5
+Utah,Fall,2
+Vermont,Handgun,120
+Vermont,Blunt Object,70
+Vermont,Knife,63
+Vermont,Rifle,60
+Vermont,Shotgun,27
+Vermont,Firearm,22
+Vermont,Unknown,22
+Vermont,Fire,8
+Vermont,Strangulation,8
+Vermont,Suffocation,6
+Vermont,Drugs,3
+Vermont,Drowning,1
+Vermont,Explosives,1
+Vermont,Fall,1
+Virginia,Handgun,7101
+Virginia,Knife,2102
+Virginia,Firearm,1938
+Virginia,Blunt Object,1334
+Virginia,Unknown,1019
+Virginia,Shotgun,931
+Virginia,Rifle,536
+Virginia,Strangulation,147
+Virginia,Fire,131
+Virginia,Suffocation,114
+Virginia,Drugs,64
+Virginia,Gun,61
+Virginia,Drowning,25
+Virginia,Poison,10
+Virginia,Fall,4
+Virginia,Explosives,3
+Washington,Handgun,3331
+Washington,Knife,1366
+Washington,Blunt Object,1116
+Washington,Rifle,437
+Washington,Unknown,379
+Washington,Shotgun,337
+Washington,Firearm,282
+Washington,Strangulation,227
+Washington,Fire,100
+Washington,Suffocation,90
+Washington,Drugs,79
+Washington,Drowning,33
+Washington,Gun,24
+Washington,Poison,9
+Washington,Explosives,3
+Washington,Fall,2
+West Virginia,Handgun,1203
+West Virginia,Knife,377
+West Virginia,Shotgun,365
+West Virginia,Blunt Object,361
+West Virginia,Rifle,260
+West Virginia,Unknown,169
+West Virginia,Firearm,152
+West Virginia,Fire,71
+West Virginia,Drugs,32
+West Virginia,Strangulation,30
+West Virginia,Gun,15
+West Virginia,Suffocation,13
+West Virginia,Drowning,6
+West Virginia,Explosives,4
+West Virginia,Poison,3
+Wisconsin,Handgun,2730
+Wisconsin,Knife,911
+Wisconsin,Blunt Object,802
+Wisconsin,Firearm,429
+Wisconsin,Unknown,408
+Wisconsin,Shotgun,285
+Wisconsin,Rifle,279
+Wisconsin,Suffocation,120
+Wisconsin,Fire,81
+Wisconsin,Strangulation,72
+Wisconsin,Drugs,48
+Wisconsin,Drowning,11
+Wisconsin,Gun,8
+Wisconsin,Explosives,5
+Wisconsin,Poison,2
+Wyoming,Handgun,227
+Wyoming,Blunt Object,122
+Wyoming,Knife,89
+Wyoming,Rifle,65
+Wyoming,Shotgun,36
+Wyoming,Unknown,31
+Wyoming,Firearm,19
+Wyoming,Suffocation,15
+Wyoming,Strangulation,12
+Wyoming,Drugs,4
+Wyoming,Fire,4
+Wyoming,Drowning,3
+Wyoming,Fall,2
+Wyoming,Gun,1

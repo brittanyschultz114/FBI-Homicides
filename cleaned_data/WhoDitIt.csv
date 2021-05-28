@@ -1,0 +1,2653 @@
+,Perpetrator Sex,State,Relationship,Relationship Total
+0,Female,Alabama,Husband,349
+1,Female,Alabama,Acquaintance,234
+2,Female,Alabama,Boyfriend,219
+3,Female,Alabama,Unknown,97
+4,Female,Alabama,Common-Law Husband,77
+5,Female,Alabama,Friend,60
+6,Female,Alabama,Son,47
+7,Female,Alabama,Stranger,46
+8,Female,Alabama,Daughter,40
+9,Female,Alabama,Family,39
+10,Female,Alabama,Ex-Husband,38
+11,Female,Alabama,Neighbor,19
+12,Female,Alabama,In-Law,18
+13,Female,Alabama,Brother,15
+14,Female,Alabama,Mother,13
+15,Female,Alabama,Father,11
+16,Female,Alabama,Stepfather,10
+17,Female,Alabama,Sister,6
+18,Female,Alabama,Girlfriend,3
+19,Female,Alabama,Stepdaughter,2
+20,Female,Alabama,Wife,2
+21,Female,Alabama,Employee,1
+22,Female,Alabama,Ex-Wife,1
+23,Female,Alabama,Stepmother,1
+24,Female,Alaska,Boyfriend,30
+25,Female,Alaska,Husband,30
+26,Female,Alaska,Son,19
+27,Female,Alaska,Daughter,16
+28,Female,Alaska,Unknown,16
+29,Female,Alaska,Acquaintance,14
+30,Female,Alaska,Friend,9
+31,Female,Alaska,Common-Law Husband,8
+32,Female,Alaska,Stranger,7
+33,Female,Alaska,Ex-Husband,5
+34,Female,Alaska,Family,4
+35,Female,Alaska,Brother,3
+36,Female,Alaska,Boyfriend/Girlfriend,2
+37,Female,Alaska,Employer,1
+38,Female,Alaska,Father,1
+39,Female,Alaska,Mother,1
+40,Female,Arizona,Husband,157
+41,Female,Arizona,Acquaintance,118
+42,Female,Arizona,Boyfriend,101
+43,Female,Arizona,Daughter,90
+44,Female,Arizona,Son,72
+45,Female,Arizona,Stranger,63
+46,Female,Arizona,Unknown,54
+47,Female,Arizona,Friend,33
+48,Female,Arizona,Family,14
+49,Female,Arizona,Ex-Husband,12
+50,Female,Arizona,Mother,11
+51,Female,Arizona,Common-Law Husband,9
+52,Female,Arizona,Brother,6
+53,Female,Arizona,Father,6
+54,Female,Arizona,Neighbor,6
+55,Female,Arizona,Boyfriend/Girlfriend,4
+56,Female,Arizona,In-Law,4
+57,Female,Arizona,Stepfather,4
+58,Female,Arizona,Girlfriend,2
+59,Female,Arizona,Stepdaughter,2
+60,Female,Arizona,Stepson,2
+61,Female,Arizona,Wife,2
+62,Female,Arizona,Employee,1
+63,Female,Arizona,Employer,1
+64,Female,Arkansas,Acquaintance,202
+65,Female,Arkansas,Husband,181
+66,Female,Arkansas,Boyfriend,139
+67,Female,Arkansas,Unknown,66
+68,Female,Arkansas,Son,55
+69,Female,Arkansas,Daughter,34
+70,Female,Arkansas,Stranger,26
+71,Female,Arkansas,Family,21
+72,Female,Arkansas,Ex-Husband,18
+73,Female,Arkansas,Friend,14
+74,Female,Arkansas,Father,13
+75,Female,Arkansas,Brother,11
+76,Female,Arkansas,Common-Law Husband,9
+77,Female,Arkansas,Neighbor,8
+78,Female,Arkansas,Mother,7
+79,Female,Arkansas,In-Law,6
+80,Female,Arkansas,Sister,5
+81,Female,Arkansas,Stepfather,4
+82,Female,Arkansas,Girlfriend,2
+83,Female,Arkansas,Stepson,2
+84,Female,Arkansas,Boyfriend/Girlfriend,1
+85,Female,Arkansas,Employer,1
+86,Female,Arkansas,Wife,1
+87,Female,California,Husband,792
+88,Female,California,Boyfriend,684
+89,Female,California,Son,532
+90,Female,California,Unknown,527
+91,Female,California,Daughter,507
+92,Female,California,Stranger,503
+93,Female,California,Acquaintance,490
+94,Female,California,Friend,395
+95,Female,California,Common-Law Husband,159
+96,Female,California,Family,141
+97,Female,California,Mother,101
+98,Female,California,Father,57
+99,Female,California,Brother,47
+100,Female,California,Neighbor,46
+101,Female,California,Ex-Husband,42
+102,Female,California,In-Law,39
+103,Female,California,Sister,34
+104,Female,California,Boyfriend/Girlfriend,31
+105,Female,California,Girlfriend,23
+106,Female,California,Wife,18
+107,Female,California,Stepfather,15
+108,Female,California,Employer,7
+109,Female,California,Stepdaughter,7
+110,Female,California,Stepmother,5
+111,Female,California,Stepson,5
+112,Female,California,Employee,4
+113,Female,California,Common-Law Wife,3
+114,Female,California,Ex-Wife,1
+115,Female,Colorado,Husband,109
+116,Female,Colorado,Boyfriend,92
+117,Female,Colorado,Acquaintance,88
+118,Female,Colorado,Son,87
+119,Female,Colorado,Unknown,67
+120,Female,Colorado,Daughter,65
+121,Female,Colorado,Stranger,35
+122,Female,Colorado,Common-Law Husband,22
+123,Female,Colorado,Family,18
+124,Female,Colorado,Ex-Husband,8
+125,Female,Colorado,Friend,8
+126,Female,Colorado,Mother,7
+127,Female,Colorado,Father,6
+128,Female,Colorado,Boyfriend/Girlfriend,5
+129,Female,Colorado,Sister,5
+130,Female,Colorado,Stepdaughter,5
+131,Female,Colorado,Brother,4
+132,Female,Colorado,Stepson,4
+133,Female,Colorado,In-Law,3
+134,Female,Colorado,Neighbor,3
+135,Female,Colorado,Employee,1
+136,Female,Colorado,Girlfriend,1
+137,Female,Colorado,Stepfather,1
+138,Female,Colorado,Stepmother,1
+139,Female,Colorado,Wife,1
+140,Female,Connecticut,Acquaintance,82
+141,Female,Connecticut,Husband,40
+142,Female,Connecticut,Boyfriend,39
+143,Female,Connecticut,Daughter,36
+144,Female,Connecticut,Unknown,27
+145,Female,Connecticut,Son,26
+146,Female,Connecticut,Neighbor,21
+147,Female,Connecticut,Stranger,18
+148,Female,Connecticut,Friend,11
+149,Female,Connecticut,Common-Law Husband,10
+150,Female,Connecticut,Family,9
+151,Female,Connecticut,Father,4
+152,Female,Connecticut,Sister,4
+153,Female,Connecticut,In-Law,2
+154,Female,Connecticut,Mother,2
+155,Female,Connecticut,Boyfriend/Girlfriend,1
+156,Female,Connecticut,Brother,1
+157,Female,Connecticut,Employer,1
+158,Female,Connecticut,Stepfather,1
+159,Female,Connecticut,Stepmother,1
+160,Female,Delaware,Boyfriend,20
+161,Female,Delaware,Acquaintance,19
+162,Female,Delaware,Unknown,16
+163,Female,Delaware,Husband,15
+164,Female,Delaware,Son,15
+165,Female,Delaware,Daughter,7
+166,Female,Delaware,Ex-Husband,3
+167,Female,Delaware,Friend,2
+168,Female,Delaware,Mother,2
+169,Female,Delaware,Stranger,2
+170,Female,Delaware,Boyfriend/Girlfriend,1
+171,Female,Delaware,Family,1
+172,Female,Delaware,Father,1
+173,Female,Delaware,Neighbor,1
+174,Female,Delaware,Stepdaughter,1
+175,Female,Delaware,Stepfather,1
+176,Female,Delaware,Stepson,1
+177,Female,District of Columbia,Stranger,52
+178,Female,District of Columbia,Unknown,52
+179,Female,District of Columbia,Acquaintance,35
+180,Female,District of Columbia,Boyfriend,34
+181,Female,District of Columbia,Husband,17
+182,Female,District of Columbia,Daughter,11
+183,Female,District of Columbia,Son,11
+184,Female,District of Columbia,Common-Law Husband,7
+185,Female,District of Columbia,Friend,4
+186,Female,District of Columbia,Brother,3
+187,Female,District of Columbia,Family,1
+188,Female,District of Columbia,In-Law,1
+189,Female,District of Columbia,Mother,1
+190,Female,District of Columbia,Sister,1
+191,Female,Florida,Unknown,1001
+192,Female,Florida,Husband,506
+193,Female,Florida,Boyfriend,252
+194,Female,Florida,Son,230
+195,Female,Florida,Daughter,183
+196,Female,Florida,Acquaintance,125
+197,Female,Florida,Friend,113
+198,Female,Florida,Stranger,96
+199,Female,Florida,Common-Law Husband,79
+200,Female,Florida,Family,49
+201,Female,Florida,Mother,45
+202,Female,Florida,Ex-Husband,30
+203,Female,Florida,Father,29
+204,Female,Florida,Brother,21
+205,Female,Florida,Sister,14
+206,Female,Florida,Neighbor,11
+207,Female,Florida,Stepfather,10
+208,Female,Florida,Wife,9
+209,Female,Florida,Boyfriend/Girlfriend,7
+210,Female,Florida,In-Law,5
+211,Female,Florida,Common-Law Wife,2
+212,Female,Florida,Employee,2
+213,Female,Florida,Girlfriend,2
+214,Female,Florida,Stepdaughter,2
+215,Female,Florida,Stepmother,1
+216,Female,Georgia,Acquaintance,552
+217,Female,Georgia,Husband,430
+218,Female,Georgia,Boyfriend,296
+219,Female,Georgia,Common-Law Husband,125
+220,Female,Georgia,Daughter,115
+221,Female,Georgia,Unknown,114
+222,Female,Georgia,Son,103
+223,Female,Georgia,Stranger,90
+224,Female,Georgia,Family,52
+225,Female,Georgia,Friend,52
+226,Female,Georgia,Brother,35
+227,Female,Georgia,Ex-Husband,31
+228,Female,Georgia,Mother,26
+229,Female,Georgia,Neighbor,21
+230,Female,Georgia,Father,15
+231,Female,Georgia,In-Law,12
+232,Female,Georgia,Stepfather,12
+233,Female,Georgia,Sister,9
+234,Female,Georgia,Boyfriend/Girlfriend,7
+235,Female,Georgia,Girlfriend,4
+236,Female,Georgia,Stepdaughter,3
+237,Female,Georgia,Stepson,3
+238,Female,Georgia,Stepmother,2
+239,Female,Hawaii,Husband,12
+240,Female,Hawaii,Son,12
+241,Female,Hawaii,Acquaintance,11
+242,Female,Hawaii,Boyfriend,9
+243,Female,Hawaii,Daughter,9
+244,Female,Hawaii,Stranger,5
+245,Female,Hawaii,Family,4
+246,Female,Hawaii,Unknown,4
+247,Female,Hawaii,Friend,3
+248,Female,Hawaii,Mother,3
+249,Female,Hawaii,Common-Law Husband,2
+250,Female,Hawaii,Ex-Husband,1
+251,Female,Hawaii,Father,1
+252,Female,Hawaii,Neighbor,1
+253,Female,Hawaii,Stepson,1
+254,Female,Idaho,Husband,33
+255,Female,Idaho,Acquaintance,23
+256,Female,Idaho,Son,13
+257,Female,Idaho,Boyfriend,10
+258,Female,Idaho,Daughter,10
+259,Female,Idaho,Unknown,8
+260,Female,Idaho,Family,6
+261,Female,Idaho,Ex-Husband,5
+262,Female,Idaho,Father,5
+263,Female,Idaho,Mother,3
+264,Female,Idaho,Stranger,3
+265,Female,Idaho,Common-Law Husband,2
+266,Female,Idaho,Brother,1
+267,Female,Idaho,Friend,1
+268,Female,Idaho,Sister,1
+269,Female,Idaho,Stepfather,1
+270,Female,Idaho,Stepson,1
+271,Female,Illinois,Boyfriend,394
+272,Female,Illinois,Acquaintance,219
+273,Female,Illinois,Husband,197
+274,Female,Illinois,Unknown,180
+275,Female,Illinois,Common-Law Husband,134
+276,Female,Illinois,Stranger,112
+277,Female,Illinois,Daughter,111
+278,Female,Illinois,Son,109
+279,Female,Illinois,Friend,96
+280,Female,Illinois,Family,49
+281,Female,Illinois,Neighbor,41
+282,Female,Illinois,Mother,22
+283,Female,Illinois,Brother,20
+284,Female,Illinois,Ex-Husband,16
+285,Female,Illinois,Girlfriend,14
+286,Female,Illinois,Father,13
+287,Female,Illinois,Boyfriend/Girlfriend,9
+288,Female,Illinois,Wife,9
+289,Female,Illinois,Sister,8
+290,Female,Illinois,Stepfather,7
+291,Female,Illinois,In-Law,5
+292,Female,Illinois,Common-Law Wife,4
+293,Female,Illinois,Stepson,3
+294,Female,Illinois,Employer,2
+295,Female,Illinois,Stepdaughter,1
+296,Female,Illinois,Stepmother,1
+297,Female,Indiana,Boyfriend,183
+298,Female,Indiana,Acquaintance,176
+299,Female,Indiana,Husband,143
+300,Female,Indiana,Son,72
+301,Female,Indiana,Unknown,61
+302,Female,Indiana,Daughter,45
+303,Female,Indiana,Stranger,30
+304,Female,Indiana,Friend,21
+305,Female,Indiana,Family,20
+306,Female,Indiana,Ex-Husband,18
+307,Female,Indiana,Brother,15
+308,Female,Indiana,Mother,13
+309,Female,Indiana,Common-Law Husband,7
+310,Female,Indiana,Father,7
+311,Female,Indiana,In-Law,7
+312,Female,Indiana,Sister,6
+313,Female,Indiana,Neighbor,5
+314,Female,Indiana,Boyfriend/Girlfriend,2
+315,Female,Indiana,Stepfather,2
+316,Female,Indiana,Stepson,1
+317,Female,Iowa,Son,31
+318,Female,Iowa,Boyfriend,28
+319,Female,Iowa,Husband,24
+320,Female,Iowa,Acquaintance,23
+321,Female,Iowa,Unknown,22
+322,Female,Iowa,Daughter,15
+323,Female,Iowa,Family,8
+324,Female,Iowa,Stranger,5
+325,Female,Iowa,Common-Law Husband,4
+326,Female,Iowa,Ex-Husband,4
+327,Female,Iowa,In-Law,3
+328,Female,Iowa,Brother,2
+329,Female,Iowa,Friend,2
+330,Female,Iowa,Mother,2
+331,Female,Iowa,Stepfather,2
+332,Female,Iowa,Boyfriend/Girlfriend,1
+333,Female,Iowa,Employee,1
+334,Female,Iowa,Father,1
+335,Female,Iowa,Stepson,1
+336,Female,Kansas,Husband,65
+337,Female,Kansas,Acquaintance,58
+338,Female,Kansas,Boyfriend,39
+339,Female,Kansas,Unknown,39
+340,Female,Kansas,Daughter,30
+341,Female,Kansas,Son,23
+342,Female,Kansas,Stranger,14
+343,Female,Kansas,Common-Law Husband,11
+344,Female,Kansas,Family,9
+345,Female,Kansas,Ex-Husband,7
+346,Female,Kansas,Mother,5
+347,Female,Kansas,Brother,4
+348,Female,Kansas,Father,4
+349,Female,Kansas,Friend,4
+350,Female,Kansas,Sister,3
+351,Female,Kansas,Employee,2
+352,Female,Kansas,Stepdaughter,2
+353,Female,Kansas,Employer,1
+354,Female,Kansas,In-Law,1
+355,Female,Kansas,Neighbor,1
+356,Female,Kentucky,Husband,165
+357,Female,Kentucky,Acquaintance,116
+358,Female,Kentucky,Boyfriend,82
+359,Female,Kentucky,Unknown,68
+360,Female,Kentucky,Daughter,36
+361,Female,Kentucky,Son,35
+362,Female,Kentucky,Stranger,23
+363,Female,Kentucky,Family,18
+364,Female,Kentucky,Ex-Husband,15
+365,Female,Kentucky,Friend,15
+366,Female,Kentucky,Common-Law Husband,8
+367,Female,Kentucky,Mother,7
+368,Female,Kentucky,Brother,6
+369,Female,Kentucky,Neighbor,6
+370,Female,Kentucky,Father,5
+371,Female,Kentucky,Sister,5
+372,Female,Kentucky,Stepfather,5
+373,Female,Kentucky,In-Law,3
+374,Female,Kentucky,Boyfriend/Girlfriend,1
+375,Female,Louisiana,Acquaintance,382
+376,Female,Louisiana,Husband,305
+377,Female,Louisiana,Boyfriend,222
+378,Female,Louisiana,Common-Law Husband,127
+379,Female,Louisiana,Stranger,124
+380,Female,Louisiana,Daughter,97
+381,Female,Louisiana,Son,86
+382,Female,Louisiana,Unknown,76
+383,Female,Louisiana,Family,41
+384,Female,Louisiana,Brother,27
+385,Female,Louisiana,Friend,27
+386,Female,Louisiana,Father,13
+387,Female,Louisiana,Neighbor,13
+388,Female,Louisiana,Ex-Husband,12
+389,Female,Louisiana,Boyfriend/Girlfriend,11
+390,Female,Louisiana,Mother,9
+391,Female,Louisiana,Sister,8
+392,Female,Louisiana,In-Law,4
+393,Female,Louisiana,Stepfather,4
+394,Female,Louisiana,Stepson,2
+395,Female,Louisiana,Common-Law Wife,1
+396,Female,Louisiana,Employee,1
+397,Female,Louisiana,Girlfriend,1
+398,Female,Louisiana,Stepmother,1
+399,Female,Maine,Husband,14
+400,Female,Maine,Daughter,11
+401,Female,Maine,Boyfriend,9
+402,Female,Maine,Acquaintance,7
+403,Female,Maine,Son,6
+404,Female,Maine,Unknown,4
+405,Female,Maine,Mother,3
+406,Female,Maine,Friend,2
+407,Female,Maine,Brother,1
+408,Female,Maine,Common-Law Husband,1
+409,Female,Maine,Employer,1
+410,Female,Maine,Family,1
+411,Female,Maine,Father,1
+412,Female,Maine,Girlfriend,1
+413,Female,Maine,Stepson,1
+414,Female,Maryland,Acquaintance,210
+415,Female,Maryland,Boyfriend,160
+416,Female,Maryland,Husband,115
+417,Female,Maryland,Unknown,99
+418,Female,Maryland,Daughter,86
+419,Female,Maryland,Son,82
+420,Female,Maryland,Stranger,71
+421,Female,Maryland,Family,30
+422,Female,Maryland,Friend,21
+423,Female,Maryland,Father,12
+424,Female,Maryland,Mother,11
+425,Female,Maryland,Brother,8
+426,Female,Maryland,Common-Law Husband,8
+427,Female,Maryland,Boyfriend/Girlfriend,4
+428,Female,Maryland,Girlfriend,4
+429,Female,Maryland,In-Law,4
+430,Female,Maryland,Employee,3
+431,Female,Maryland,Stepfather,3
+432,Female,Maryland,Neighbor,2
+433,Female,Maryland,Sister,2
+434,Female,Maryland,Ex-Husband,1
+435,Female,Maryland,Stepson,1
+436,Female,Massachusetts,Boyfriend,53
+437,Female,Massachusetts,Acquaintance,50
+438,Female,Massachusetts,Unknown,44
+439,Female,Massachusetts,Husband,36
+440,Female,Massachusetts,Son,28
+441,Female,Massachusetts,Daughter,24
+442,Female,Massachusetts,Stranger,23
+443,Female,Massachusetts,Friend,12
+444,Female,Massachusetts,Neighbor,7
+445,Female,Massachusetts,Brother,4
+446,Female,Massachusetts,Family,4
+447,Female,Massachusetts,Ex-Husband,3
+448,Female,Massachusetts,Mother,3
+449,Female,Massachusetts,Boyfriend/Girlfriend,1
+450,Female,Massachusetts,Employee,1
+451,Female,Massachusetts,Employer,1
+452,Female,Massachusetts,Father,1
+453,Female,Massachusetts,Girlfriend,1
+454,Female,Massachusetts,Wife,1
+455,Female,Michigan,Acquaintance,647
+456,Female,Michigan,Husband,293
+457,Female,Michigan,Boyfriend,272
+458,Female,Michigan,Unknown,224
+459,Female,Michigan,Son,158
+460,Female,Michigan,Daughter,145
+461,Female,Michigan,Stranger,132
+462,Female,Michigan,Common-Law Husband,98
+463,Female,Michigan,Family,65
+464,Female,Michigan,Friend,51
+465,Female,Michigan,Mother,38
+466,Female,Michigan,Brother,23
+467,Female,Michigan,Ex-Husband,16
+468,Female,Michigan,Father,16
+469,Female,Michigan,Sister,16
+470,Female,Michigan,Neighbor,15
+471,Female,Michigan,In-Law,9
+472,Female,Michigan,Boyfriend/Girlfriend,8
+473,Female,Michigan,Stepfather,5
+474,Female,Michigan,Girlfriend,3
+475,Female,Michigan,Stepson,3
+476,Female,Michigan,Common-Law Wife,1
+477,Female,Michigan,Employee,1
+478,Female,Michigan,Employer,1
+479,Female,Michigan,Wife,1
+480,Female,Minnesota,Acquaintance,70
+481,Female,Minnesota,Daughter,64
+482,Female,Minnesota,Boyfriend,53
+483,Female,Minnesota,Husband,46
+484,Female,Minnesota,Son,26
+485,Female,Minnesota,Unknown,23
+486,Female,Minnesota,Stranger,17
+487,Female,Minnesota,Family,14
+488,Female,Minnesota,Friend,6
+489,Female,Minnesota,Mother,5
+490,Female,Minnesota,Brother,2
+491,Female,Minnesota,Ex-Husband,2
+492,Female,Minnesota,Neighbor,2
+493,Female,Minnesota,Sister,2
+494,Female,Minnesota,Stepfather,2
+495,Female,Minnesota,Wife,2
+496,Female,Minnesota,Boyfriend/Girlfriend,1
+497,Female,Minnesota,Common-Law Husband,1
+498,Female,Minnesota,Father,1
+499,Female,Minnesota,Girlfriend,1
+500,Female,Minnesota,Stepson,1
+501,Female,Mississippi,Acquaintance,223
+502,Female,Mississippi,Husband,199
+503,Female,Mississippi,Boyfriend,198
+504,Female,Mississippi,Unknown,43
+505,Female,Mississippi,Son,36
+506,Female,Mississippi,Stranger,33
+507,Female,Mississippi,Common-Law Husband,27
+508,Female,Mississippi,Daughter,20
+509,Female,Mississippi,Family,18
+510,Female,Mississippi,Brother,14
+511,Female,Mississippi,Friend,12
+512,Female,Mississippi,Neighbor,11
+513,Female,Mississippi,Father,10
+514,Female,Mississippi,Mother,10
+515,Female,Mississippi,Ex-Husband,8
+516,Female,Mississippi,Boyfriend/Girlfriend,6
+517,Female,Mississippi,Stepfather,6
+518,Female,Mississippi,In-Law,5
+519,Female,Mississippi,Sister,5
+520,Female,Mississippi,Stepson,3
+521,Female,Mississippi,Employee,1
+522,Female,Mississippi,Girlfriend,1
+523,Female,Mississippi,Stepdaughter,1
+524,Female,Mississippi,Stepmother,1
+525,Female,Missouri,Acquaintance,227
+526,Female,Missouri,Husband,188
+527,Female,Missouri,Boyfriend,168
+528,Female,Missouri,Unknown,126
+529,Female,Missouri,Son,113
+530,Female,Missouri,Daughter,106
+531,Female,Missouri,Stranger,42
+532,Female,Missouri,Common-Law Husband,23
+533,Female,Missouri,Family,22
+534,Female,Missouri,Mother,20
+535,Female,Missouri,Friend,17
+536,Female,Missouri,Ex-Husband,16
+537,Female,Missouri,Neighbor,14
+538,Female,Missouri,Sister,9
+539,Female,Missouri,Brother,7
+540,Female,Missouri,Father,7
+541,Female,Missouri,Boyfriend/Girlfriend,5
+542,Female,Missouri,In-Law,5
+543,Female,Missouri,Stepdaughter,3
+544,Female,Missouri,Stepfather,3
+545,Female,Missouri,Employee,2
+546,Female,Missouri,Employer,2
+547,Female,Missouri,Girlfriend,2
+548,Female,Missouri,Stepson,2
+549,Female,Missouri,Stepmother,1
+550,Female,Montana,Boyfriend,14
+551,Female,Montana,Husband,14
+552,Female,Montana,Son,12
+553,Female,Montana,Acquaintance,11
+554,Female,Montana,Unknown,8
+555,Female,Montana,Daughter,5
+556,Female,Montana,Friend,3
+557,Female,Montana,Common-Law Husband,2
+558,Female,Montana,Brother,1
+559,Female,Montana,Ex-Husband,1
+560,Female,Montana,Father,1
+561,Female,Montana,In-Law,1
+562,Female,Montana,Neighbor,1
+563,Female,Montana,Sister,1
+564,Female,Montana,Stepdaughter,1
+565,Female,Montana,Stepson,1
+566,Female,Montana,Stranger,1
+567,Female,Nebraska,Daughter,32
+568,Female,Nebraska,Acquaintance,24
+569,Female,Nebraska,Husband,23
+570,Female,Nebraska,Boyfriend,22
+571,Female,Nebraska,Unknown,15
+572,Female,Nebraska,Son,12
+573,Female,Nebraska,Friend,9
+574,Female,Nebraska,Stranger,5
+575,Female,Nebraska,Brother,3
+576,Female,Nebraska,Ex-Husband,3
+577,Female,Nebraska,Family,3
+578,Female,Nebraska,Boyfriend/Girlfriend,1
+579,Female,Nebraska,Common-Law Husband,1
+580,Female,Nebraska,Father,1
+581,Female,Nebraska,Sister,1
+582,Female,Nevada,Acquaintance,85
+583,Female,Nevada,Husband,81
+584,Female,Nevada,Boyfriend,62
+585,Female,Nevada,Son,43
+586,Female,Nevada,Daughter,40
+587,Female,Nevada,Stranger,24
+588,Female,Nevada,Unknown,23
+589,Female,Nevada,Neighbor,12
+590,Female,Nevada,Mother,7
+591,Female,Nevada,Common-Law Husband,5
+592,Female,Nevada,Family,5
+593,Female,Nevada,Ex-Husband,4
+594,Female,Nevada,Friend,4
+595,Female,Nevada,Father,3
+596,Female,Nevada,Brother,2
+597,Female,Nevada,Stepdaughter,2
+598,Female,Nevada,Stepfather,2
+599,Female,Nevada,Employee,1
+600,Female,Nevada,Girlfriend,1
+601,Female,Nevada,In-Law,1
+602,Female,Nevada,Sister,1
+603,Female,Nevada,Stepmother,1
+604,Female,Nevada,Stepson,1
+605,Female,New Hampshire,Husband,17
+606,Female,New Hampshire,Son,10
+607,Female,New Hampshire,Daughter,7
+608,Female,New Hampshire,Boyfriend,6
+609,Female,New Hampshire,Acquaintance,4
+610,Female,New Hampshire,Ex-Husband,2
+611,Female,New Hampshire,Stranger,2
+612,Female,New Hampshire,Unknown,2
+613,Female,New Hampshire,Boyfriend/Girlfriend,1
+614,Female,New Hampshire,Family,1
+615,Female,New Hampshire,Friend,1
+616,Female,New Hampshire,Girlfriend,1
+617,Female,New Hampshire,In-Law,1
+618,Female,New Hampshire,Mother,1
+619,Female,New Hampshire,Neighbor,1
+620,Female,New Hampshire,Wife,1
+621,Female,New Jersey,Acquaintance,205
+622,Female,New Jersey,Boyfriend,170
+623,Female,New Jersey,Son,97
+624,Female,New Jersey,Husband,95
+625,Female,New Jersey,Daughter,90
+626,Female,New Jersey,Stranger,57
+627,Female,New Jersey,Unknown,43
+628,Female,New Jersey,Friend,24
+629,Female,New Jersey,Family,20
+630,Female,New Jersey,Neighbor,18
+631,Female,New Jersey,Mother,17
+632,Female,New Jersey,Father,11
+633,Female,New Jersey,Common-Law Husband,10
+634,Female,New Jersey,Brother,9
+635,Female,New Jersey,In-Law,7
+636,Female,New Jersey,Sister,5
+637,Female,New Jersey,Boyfriend/Girlfriend,4
+638,Female,New Jersey,Stepdaughter,4
+639,Female,New Jersey,Ex-Husband,2
+640,Female,New Jersey,Stepfather,2
+641,Female,New Jersey,Girlfriend,1
+642,Female,New Jersey,Stepson,1
+643,Female,New Mexico,Acquaintance,77
+644,Female,New Mexico,Boyfriend,59
+645,Female,New Mexico,Husband,53
+646,Female,New Mexico,Stranger,37
+647,Female,New Mexico,Daughter,29
+648,Female,New Mexico,Son,28
+649,Female,New Mexico,Unknown,16
+650,Female,New Mexico,Family,14
+651,Female,New Mexico,Friend,10
+652,Female,New Mexico,Ex-Husband,5
+653,Female,New Mexico,Common-Law Husband,4
+654,Female,New Mexico,Mother,3
+655,Female,New Mexico,Father,2
+656,Female,New Mexico,Girlfriend,2
+657,Female,New Mexico,In-Law,2
+658,Female,New Mexico,Boyfriend/Girlfriend,1
+659,Female,New Mexico,Brother,1
+660,Female,New Mexico,Sister,1
+661,Female,New Mexico,Wife,1
+662,Female,New York,Unknown,388
+663,Female,New York,Acquaintance,332
+664,Female,New York,Boyfriend,319
+665,Female,New York,Son,255
+666,Female,New York,Husband,225
+667,Female,New York,Daughter,211
+668,Female,New York,Stranger,138
+669,Female,New York,Friend,133
+670,Female,New York,Common-Law Husband,124
+671,Female,New York,Family,95
+672,Female,New York,Father,31
+673,Female,New York,Mother,31
+674,Female,New York,Brother,14
+675,Female,New York,Sister,9
+676,Female,New York,Neighbor,8
+677,Female,New York,Boyfriend/Girlfriend,6
+678,Female,New York,Employee,4
+679,Female,New York,Ex-Husband,4
+680,Female,New York,Girlfriend,3
+681,Female,New York,Stepson,3
+682,Female,New York,Wife,2
+683,Female,New York,Employer,1
+684,Female,New York,In-Law,1
+685,Female,New York,Stepfather,1
+686,Female,New York,Stepmother,1
+687,Female,North Carolina,Husband,413
+688,Female,North Carolina,Boyfriend,394
+689,Female,North Carolina,Acquaintance,377
+690,Female,North Carolina,Unknown,175
+691,Female,North Carolina,Son,119
+692,Female,North Carolina,Stranger,100
+693,Female,North Carolina,Friend,96
+694,Female,North Carolina,Daughter,91
+695,Female,North Carolina,Family,56
+696,Female,North Carolina,Brother,25
+697,Female,North Carolina,Ex-Husband,22
+698,Female,North Carolina,Father,21
+699,Female,North Carolina,Mother,21
+700,Female,North Carolina,Neighbor,16
+701,Female,North Carolina,Common-Law Husband,14
+702,Female,North Carolina,In-Law,8
+703,Female,North Carolina,Sister,6
+704,Female,North Carolina,Stepfather,6
+705,Female,North Carolina,Boyfriend/Girlfriend,2
+706,Female,North Carolina,Girlfriend,2
+707,Female,North Carolina,Wife,2
+708,Female,North Carolina,Employee,1
+709,Female,North Carolina,Stepdaughter,1
+710,Female,North Dakota,Husband,8
+711,Female,North Dakota,Daughter,5
+712,Female,North Dakota,Acquaintance,4
+713,Female,North Dakota,Boyfriend,4
+714,Female,North Dakota,Son,4
+715,Female,North Dakota,Mother,2
+716,Female,North Dakota,Brother,1
+717,Female,North Dakota,Ex-Husband,1
+718,Female,North Dakota,Father,1
+719,Female,North Dakota,Friend,1
+720,Female,North Dakota,Neighbor,1
+721,Female,North Dakota,Stranger,1
+722,Female,North Dakota,Unknown,1
+723,Female,Ohio,Acquaintance,391
+724,Female,Ohio,Husband,315
+725,Female,Ohio,Boyfriend,237
+726,Female,Ohio,Daughter,159
+727,Female,Ohio,Son,143
+728,Female,Ohio,Unknown,128
+729,Female,Ohio,Stranger,93
+730,Female,Ohio,Common-Law Husband,51
+731,Female,Ohio,Family,48
+732,Female,Ohio,Friend,42
+733,Female,Ohio,Neighbor,33
+734,Female,Ohio,Ex-Husband,24
+735,Female,Ohio,Father,21
+736,Female,Ohio,Mother,21
+737,Female,Ohio,Sister,19
+738,Female,Ohio,Brother,12
+739,Female,Ohio,In-Law,10
+740,Female,Ohio,Stepfather,9
+741,Female,Ohio,Boyfriend/Girlfriend,7
+742,Female,Ohio,Employee,4
+743,Female,Ohio,Girlfriend,2
+744,Female,Ohio,Employer,1
+745,Female,Ohio,Stepdaughter,1
+746,Female,Ohio,Stepson,1
+747,Female,Oklahoma,Husband,209
+748,Female,Oklahoma,Acquaintance,208
+749,Female,Oklahoma,Boyfriend,117
+750,Female,Oklahoma,Son,76
+751,Female,Oklahoma,Daughter,56
+752,Female,Oklahoma,Common-Law Husband,52
+753,Female,Oklahoma,Stranger,45
+754,Female,Oklahoma,Ex-Husband,25
+755,Female,Oklahoma,Friend,25
+756,Female,Oklahoma,Unknown,23
+757,Female,Oklahoma,Family,22
+758,Female,Oklahoma,Father,16
+759,Female,Oklahoma,In-Law,10
+760,Female,Oklahoma,Brother,8
+761,Female,Oklahoma,Mother,8
+762,Female,Oklahoma,Boyfriend/Girlfriend,5
+763,Female,Oklahoma,Stepfather,5
+764,Female,Oklahoma,Stepdaughter,3
+765,Female,Oklahoma,Employer,1
+766,Female,Oklahoma,Neighbor,1
+767,Female,Oklahoma,Sister,1
+768,Female,Oklahoma,Stepmother,1
+769,Female,Oklahoma,Stepson,1
+770,Female,Oregon,Boyfriend,60
+771,Female,Oregon,Acquaintance,57
+772,Female,Oregon,Husband,55
+773,Female,Oregon,Son,40
+774,Female,Oregon,Daughter,39
+775,Female,Oregon,Unknown,22
+776,Female,Oregon,Stranger,20
+777,Female,Oregon,Family,16
+778,Female,Oregon,Friend,12
+779,Female,Oregon,Mother,11
+780,Female,Oregon,Common-Law Husband,6
+781,Female,Oregon,Boyfriend/Girlfriend,5
+782,Female,Oregon,Brother,5
+783,Female,Oregon,Ex-Husband,5
+784,Female,Oregon,Stepson,4
+785,Female,Oregon,Employer,2
+786,Female,Oregon,Father,2
+787,Female,Oregon,Neighbor,2
+788,Female,Oregon,Sister,2
+789,Female,Oregon,Stepfather,2
+790,Female,Oregon,Stepdaughter,1
+791,Female,Pennsylvania,Acquaintance,298
+792,Female,Pennsylvania,Boyfriend,294
+793,Female,Pennsylvania,Husband,213
+794,Female,Pennsylvania,Son,179
+795,Female,Pennsylvania,Daughter,159
+796,Female,Pennsylvania,Unknown,151
+797,Female,Pennsylvania,Stranger,99
+798,Female,Pennsylvania,Common-Law Husband,62
+799,Female,Pennsylvania,Friend,56
+800,Female,Pennsylvania,Family,45
+801,Female,Pennsylvania,Neighbor,34
+802,Female,Pennsylvania,Mother,30
+803,Female,Pennsylvania,Father,19
+804,Female,Pennsylvania,Brother,15
+805,Female,Pennsylvania,Boyfriend/Girlfriend,8
+806,Female,Pennsylvania,Sister,8
+807,Female,Pennsylvania,Ex-Husband,7
+808,Female,Pennsylvania,In-Law,7
+809,Female,Pennsylvania,Stepdaughter,5
+810,Female,Pennsylvania,Girlfriend,4
+811,Female,Pennsylvania,Wife,3
+812,Female,Pennsylvania,Employee,2
+813,Female,Pennsylvania,Stepfather,2
+814,Female,Pennsylvania,Stepmother,2
+815,Female,Pennsylvania,Stepson,2
+816,Female,Rhodes Island,Acquaintance,16
+817,Female,Rhodes Island,Daughter,12
+818,Female,Rhodes Island,Boyfriend,10
+819,Female,Rhodes Island,Son,9
+820,Female,Rhodes Island,Husband,6
+821,Female,Rhodes Island,Unknown,6
+822,Female,Rhodes Island,Stranger,3
+823,Female,Rhodes Island,Family,2
+824,Female,Rhodes Island,Mother,2
+825,Female,Rhodes Island,Neighbor,2
+826,Female,Rhodes Island,Brother,1
+827,Female,Rhodes Island,Common-Law Husband,1
+828,Female,Rhodes Island,Ex-Husband,1
+829,Female,Rhodes Island,Friend,1
+830,Female,South Carolina,Acquaintance,280
+831,Female,South Carolina,Husband,275
+832,Female,South Carolina,Boyfriend,231
+833,Female,South Carolina,Common-Law Husband,108
+834,Female,South Carolina,Son,90
+835,Female,South Carolina,Daughter,72
+836,Female,South Carolina,Unknown,70
+837,Female,South Carolina,Stranger,52
+838,Female,South Carolina,Family,41
+839,Female,South Carolina,Friend,26
+840,Female,South Carolina,Brother,22
+841,Female,South Carolina,Mother,18
+842,Female,South Carolina,In-Law,13
+843,Female,South Carolina,Ex-Husband,12
+844,Female,South Carolina,Father,10
+845,Female,South Carolina,Sister,9
+846,Female,South Carolina,Boyfriend/Girlfriend,8
+847,Female,South Carolina,Neighbor,6
+848,Female,South Carolina,Stepdaughter,4
+849,Female,South Carolina,Stepfather,4
+850,Female,South Carolina,Stepson,4
+851,Female,South Carolina,Employer,1
+852,Female,South Dakota,Acquaintance,10
+853,Female,South Dakota,Boyfriend,8
+854,Female,South Dakota,Daughter,6
+855,Female,South Dakota,Husband,5
+856,Female,South Dakota,Friend,4
+857,Female,South Dakota,Stranger,3
+858,Female,South Dakota,Unknown,3
+859,Female,South Dakota,Mother,2
+860,Female,South Dakota,Son,2
+861,Female,South Dakota,Ex-Husband,1
+862,Female,South Dakota,Family,1
+863,Female,South Dakota,Sister,1
+864,Female,Tennessee,Acquaintance,375
+865,Female,Tennessee,Husband,299
+866,Female,Tennessee,Boyfriend,246
+867,Female,Tennessee,Unknown,129
+868,Female,Tennessee,Son,72
+869,Female,Tennessee,Stranger,70
+870,Female,Tennessee,Daughter,55
+871,Female,Tennessee,Family,41
+872,Female,Tennessee,Ex-Husband,33
+873,Female,Tennessee,Friend,32
+874,Female,Tennessee,Common-Law Husband,27
+875,Female,Tennessee,Brother,22
+876,Female,Tennessee,Father,17
+877,Female,Tennessee,Mother,14
+878,Female,Tennessee,Neighbor,14
+879,Female,Tennessee,In-Law,11
+880,Female,Tennessee,Stepfather,9
+881,Female,Tennessee,Sister,8
+882,Female,Tennessee,Boyfriend/Girlfriend,5
+883,Female,Tennessee,Girlfriend,2
+884,Female,Tennessee,Stepson,2
+885,Female,Tennessee,Employer,1
+886,Female,Tennessee,Stepdaughter,1
+887,Female,Tennessee,Wife,1
+888,Female,Texas,Husband,1213
+889,Female,Texas,Acquaintance,965
+890,Female,Texas,Boyfriend,474
+891,Female,Texas,Common-Law Husband,434
+892,Female,Texas,Unknown,379
+893,Female,Texas,Son,374
+894,Female,Texas,Stranger,339
+895,Female,Texas,Daughter,301
+896,Female,Texas,Friend,130
+897,Female,Texas,Family,121
+898,Female,Texas,Ex-Husband,92
+899,Female,Texas,Mother,62
+900,Female,Texas,In-Law,51
+901,Female,Texas,Neighbor,51
+902,Female,Texas,Brother,43
+903,Female,Texas,Father,43
+904,Female,Texas,Stepfather,30
+905,Female,Texas,Wife,29
+906,Female,Texas,Sister,21
+907,Female,Texas,Boyfriend/Girlfriend,18
+908,Female,Texas,Girlfriend,14
+909,Female,Texas,Stepson,9
+910,Female,Texas,Common-Law Wife,8
+911,Female,Texas,Stepdaughter,7
+912,Female,Texas,Employer,4
+913,Female,Texas,Ex-Wife,3
+914,Female,Texas,Stepmother,2
+915,Female,Utah,Daughter,35
+916,Female,Utah,Husband,34
+917,Female,Utah,Acquaintance,30
+918,Female,Utah,Son,28
+919,Female,Utah,Unknown,27
+920,Female,Utah,Boyfriend,18
+921,Female,Utah,Stranger,13
+922,Female,Utah,Family,5
+923,Female,Utah,In-Law,4
+924,Female,Utah,Mother,4
+925,Female,Utah,Friend,3
+926,Female,Utah,Neighbor,3
+927,Female,Utah,Ex-Husband,2
+928,Female,Utah,Boyfriend/Girlfriend,1
+929,Female,Utah,Common-Law Husband,1
+930,Female,Utah,Stepfather,1
+931,Female,Vermont,Boyfriend,8
+932,Female,Vermont,Husband,7
+933,Female,Vermont,Daughter,6
+934,Female,Vermont,Acquaintance,3
+935,Female,Vermont,Family,2
+936,Female,Vermont,Son,2
+937,Female,Vermont,Brother,1
+938,Female,Vermont,Friend,1
+939,Female,Vermont,Sister,1
+940,Female,Vermont,Stepfather,1
+941,Female,Vermont,Stranger,1
+942,Female,Vermont,Unknown,1
+943,Female,Virginia,Husband,317
+944,Female,Virginia,Acquaintance,299
+945,Female,Virginia,Boyfriend,257
+946,Female,Virginia,Daughter,129
+947,Female,Virginia,Unknown,128
+948,Female,Virginia,Son,104
+949,Female,Virginia,Stranger,49
+950,Female,Virginia,Family,29
+951,Female,Virginia,Mother,27
+952,Female,Virginia,Friend,24
+953,Female,Virginia,Father,18
+954,Female,Virginia,In-Law,17
+955,Female,Virginia,Neighbor,14
+956,Female,Virginia,Ex-Husband,9
+957,Female,Virginia,Boyfriend/Girlfriend,8
+958,Female,Virginia,Brother,8
+959,Female,Virginia,Common-Law Husband,8
+960,Female,Virginia,Sister,5
+961,Female,Virginia,Stepfather,4
+962,Female,Virginia,Stepmother,1
+963,Female,Virginia,Stepson,1
+964,Female,Washington,Acquaintance,111
+965,Female,Washington,Husband,106
+966,Female,Washington,Boyfriend,91
+967,Female,Washington,Daughter,72
+968,Female,Washington,Unknown,61
+969,Female,Washington,Son,44
+970,Female,Washington,Stranger,37
+971,Female,Washington,Friend,26
+972,Female,Washington,Mother,24
+973,Female,Washington,Family,17
+974,Female,Washington,Ex-Husband,7
+975,Female,Washington,In-Law,7
+976,Female,Washington,Father,6
+977,Female,Washington,Boyfriend/Girlfriend,5
+978,Female,Washington,Common-Law Husband,5
+979,Female,Washington,Neighbor,4
+980,Female,Washington,Sister,4
+981,Female,Washington,Brother,3
+982,Female,Washington,Employer,2
+983,Female,Washington,Stepdaughter,1
+984,Female,Washington,Stepfather,1
+985,Female,Washington,Stepmother,1
+986,Female,West Virginia,Husband,99
+987,Female,West Virginia,Acquaintance,69
+988,Female,West Virginia,Boyfriend,45
+989,Female,West Virginia,Unknown,28
+990,Female,West Virginia,Son,23
+991,Female,West Virginia,Daughter,21
+992,Female,West Virginia,Stranger,17
+993,Female,West Virginia,Common-Law Husband,14
+994,Female,West Virginia,Ex-Husband,10
+995,Female,West Virginia,Father,9
+996,Female,West Virginia,Mother,8
+997,Female,West Virginia,Family,7
+998,Female,West Virginia,In-Law,4
+999,Female,West Virginia,Neighbor,4
+1000,Female,West Virginia,Friend,3
+1001,Female,West Virginia,Sister,2
+1002,Female,West Virginia,Brother,1
+1003,Female,West Virginia,Girlfriend,1
+1004,Female,West Virginia,Stepfather,1
+1005,Female,West Virginia,Stepmother,1
+1006,Female,Wisconsin,Unknown,109
+1007,Female,Wisconsin,Boyfriend,106
+1008,Female,Wisconsin,Acquaintance,90
+1009,Female,Wisconsin,Son,58
+1010,Female,Wisconsin,Daughter,46
+1011,Female,Wisconsin,Husband,44
+1012,Female,Wisconsin,Stranger,32
+1013,Female,Wisconsin,Friend,26
+1014,Female,Wisconsin,Family,10
+1015,Female,Wisconsin,Ex-Husband,6
+1016,Female,Wisconsin,Neighbor,5
+1017,Female,Wisconsin,Common-Law Husband,4
+1018,Female,Wisconsin,Boyfriend/Girlfriend,3
+1019,Female,Wisconsin,Brother,3
+1020,Female,Wisconsin,In-Law,3
+1021,Female,Wisconsin,Sister,3
+1022,Female,Wisconsin,Mother,2
+1023,Female,Wisconsin,Stepfather,2
+1024,Female,Wisconsin,Employer,1
+1025,Female,Wisconsin,Father,1
+1026,Female,Wisconsin,Stepdaughter,1
+1027,Female,Wisconsin,Stepson,1
+1028,Female,Wyoming,Husband,27
+1029,Female,Wyoming,Daughter,12
+1030,Female,Wyoming,Son,8
+1031,Female,Wyoming,Boyfriend,5
+1032,Female,Wyoming,Acquaintance,4
+1033,Female,Wyoming,Mother,2
+1034,Female,Wyoming,Stranger,2
+1035,Female,Wyoming,Family,1
+1036,Female,Wyoming,Stepfather,1
+1037,Female,Wyoming,Unknown,1
+1038,Male,Alabama,Acquaintance,2920
+1039,Male,Alabama,Unknown,1162
+1040,Male,Alabama,Stranger,1124
+1041,Male,Alabama,Friend,436
+1042,Male,Alabama,Wife,426
+1043,Male,Alabama,Girlfriend,329
+1044,Male,Alabama,Family,215
+1045,Male,Alabama,Brother,149
+1046,Male,Alabama,In-Law,148
+1047,Male,Alabama,Neighbor,138
+1048,Male,Alabama,Ex-Wife,89
+1049,Male,Alabama,Father,86
+1050,Male,Alabama,Son,82
+1051,Male,Alabama,Common-Law Wife,73
+1052,Male,Alabama,Mother,57
+1053,Male,Alabama,Stepfather,44
+1054,Male,Alabama,Daughter,41
+1055,Male,Alabama,Sister,24
+1056,Male,Alabama,Stepson,18
+1057,Male,Alabama,Stepdaughter,14
+1058,Male,Alabama,Employee,12
+1059,Male,Alabama,Husband,10
+1060,Male,Alabama,Boyfriend/Girlfriend,8
+1061,Male,Alabama,Boyfriend,7
+1062,Male,Alabama,Stepmother,7
+1063,Male,Alabama,Employer,6
+1064,Male,Alabama,Common-Law Husband,2
+1065,Male,Alabama,Ex-Husband,1
+1066,Male,Alaska,Acquaintance,360
+1067,Male,Alaska,Stranger,216
+1068,Male,Alaska,Friend,113
+1069,Male,Alaska,Unknown,110
+1070,Male,Alaska,Wife,73
+1071,Male,Alaska,Girlfriend,66
+1072,Male,Alaska,Brother,36
+1073,Male,Alaska,Family,36
+1074,Male,Alaska,Neighbor,27
+1075,Male,Alaska,Father,23
+1076,Male,Alaska,Son,19
+1077,Male,Alaska,Daughter,16
+1078,Male,Alaska,Mother,16
+1079,Male,Alaska,Sister,9
+1080,Male,Alaska,In-Law,6
+1081,Male,Alaska,Stepfather,6
+1082,Male,Alaska,Employer,5
+1083,Male,Alaska,Ex-Wife,5
+1084,Male,Alaska,Stepdaughter,3
+1085,Male,Alaska,Stepmother,3
+1086,Male,Alaska,Common-Law Wife,2
+1087,Male,Alaska,Employee,2
+1088,Male,Alaska,Boyfriend/Girlfriend,1
+1089,Male,Alaska,Stepson,1
+1090,Male,Arizona,Stranger,2825
+1091,Male,Arizona,Acquaintance,2291
+1092,Male,Arizona,Unknown,838
+1093,Male,Arizona,Friend,580
+1094,Male,Arizona,Wife,489
+1095,Male,Arizona,Girlfriend,365
+1096,Male,Arizona,Family,172
+1097,Male,Arizona,Son,149
+1098,Male,Arizona,Neighbor,140
+1099,Male,Arizona,Daughter,99
+1100,Male,Arizona,Brother,86
+1101,Male,Arizona,Father,80
+1102,Male,Arizona,Mother,80
+1103,Male,Arizona,In-Law,59
+1104,Male,Arizona,Ex-Wife,41
+1105,Male,Arizona,Sister,32
+1106,Male,Arizona,Stepfather,23
+1107,Male,Arizona,Common-Law Wife,21
+1108,Male,Arizona,Stepson,19
+1109,Male,Arizona,Stepdaughter,18
+1110,Male,Arizona,Boyfriend/Girlfriend,14
+1111,Male,Arizona,Boyfriend,13
+1112,Male,Arizona,Employer,9
+1113,Male,Arizona,Employee,5
+1114,Male,Arizona,Husband,5
+1115,Male,Arizona,Common-Law Husband,1
+1116,Male,Arkansas,Acquaintance,2146
+1117,Male,Arkansas,Unknown,779
+1118,Male,Arkansas,Stranger,655
+1119,Male,Arkansas,Wife,306
+1120,Male,Arkansas,Girlfriend,234
+1121,Male,Arkansas,Family,152
+1122,Male,Arkansas,Friend,146
+1123,Male,Arkansas,Son,90
+1124,Male,Arkansas,Brother,89
+1125,Male,Arkansas,Neighbor,82
+1126,Male,Arkansas,Father,65
+1127,Male,Arkansas,In-Law,64
+1128,Male,Arkansas,Mother,47
+1129,Male,Arkansas,Daughter,35
+1130,Male,Arkansas,Ex-Wife,34
+1131,Male,Arkansas,Stepfather,25
+1132,Male,Arkansas,Sister,11
+1133,Male,Arkansas,Stepson,11
+1134,Male,Arkansas,Boyfriend/Girlfriend,9
+1135,Male,Arkansas,Stepdaughter,7
+1136,Male,Arkansas,Common-Law Wife,6
+1137,Male,Arkansas,Stepmother,6
+1138,Male,Arkansas,Employer,5
+1139,Male,Arkansas,Boyfriend,3
+1140,Male,Arkansas,Employee,3
+1141,Male,Arkansas,Ex-Husband,3
+1142,Male,Arkansas,Common-Law Husband,2
+1143,Male,Arkansas,Husband,1
+1144,Male,California,Stranger,18569
+1145,Male,California,Unknown,13717
+1146,Male,California,Acquaintance,8651
+1147,Male,California,Friend,5446
+1148,Male,California,Wife,2933
+1149,Male,California,Girlfriend,2299
+1150,Male,California,Neighbor,934
+1151,Male,California,Family,906
+1152,Male,California,Son,736
+1153,Male,California,Brother,553
+1154,Male,California,Daughter,550
+1155,Male,California,Mother,515
+1156,Male,California,Father,460
+1157,Male,California,In-Law,446
+1158,Male,California,Common-Law Wife,306
+1159,Male,California,Boyfriend/Girlfriend,293
+1160,Male,California,Ex-Wife,188
+1161,Male,California,Stepfather,154
+1162,Male,California,Employer,118
+1163,Male,California,Stepson,114
+1164,Male,California,Sister,112
+1165,Male,California,Stepdaughter,83
+1166,Male,California,Employee,54
+1167,Male,California,Boyfriend,23
+1168,Male,California,Stepmother,21
+1169,Male,California,Common-Law Husband,6
+1170,Male,California,Ex-Husband,6
+1171,Male,California,Husband,6
+1172,Male,Colorado,Acquaintance,1258
+1173,Male,Colorado,Stranger,983
+1174,Male,Colorado,Unknown,805
+1175,Male,Colorado,Wife,395
+1176,Male,Colorado,Girlfriend,241
+1177,Male,Colorado,Friend,226
+1178,Male,Colorado,Son,96
+1179,Male,Colorado,Family,92
+1180,Male,Colorado,Neighbor,74
+1181,Male,Colorado,Daughter,68
+1182,Male,Colorado,Brother,57
+1183,Male,Colorado,Mother,53
+1184,Male,Colorado,Common-Law Wife,51
+1185,Male,Colorado,Ex-Wife,50
+1186,Male,Colorado,Father,48
+1187,Male,Colorado,In-Law,28
+1188,Male,Colorado,Stepson,22
+1189,Male,Colorado,Employer,18
+1190,Male,Colorado,Stepfather,14
+1191,Male,Colorado,Boyfriend/Girlfriend,12
+1192,Male,Colorado,Stepdaughter,11
+1193,Male,Colorado,Sister,8
+1194,Male,Colorado,Employee,5
+1195,Male,Colorado,Husband,2
+1196,Male,Colorado,Stepmother,1
+1197,Male,Connecticut,Acquaintance,1080
+1198,Male,Connecticut,Stranger,556
+1199,Male,Connecticut,Unknown,444
+1200,Male,Connecticut,Wife,198
+1201,Male,Connecticut,Girlfriend,175
+1202,Male,Connecticut,Friend,106
+1203,Male,Connecticut,Son,62
+1204,Male,Connecticut,Family,50
+1205,Male,Connecticut,Neighbor,43
+1206,Male,Connecticut,Father,39
+1207,Male,Connecticut,Daughter,30
+1208,Male,Connecticut,Mother,30
+1209,Male,Connecticut,Brother,27
+1210,Male,Connecticut,In-Law,18
+1211,Male,Connecticut,Common-Law Wife,13
+1212,Male,Connecticut,Boyfriend/Girlfriend,10
+1213,Male,Connecticut,Ex-Wife,10
+1214,Male,Connecticut,Stepfather,8
+1215,Male,Connecticut,Employee,6
+1216,Male,Connecticut,Employer,6
+1217,Male,Connecticut,Stepson,5
+1218,Male,Connecticut,Sister,4
+1219,Male,Connecticut,Stepdaughter,3
+1220,Male,Delaware,Unknown,245
+1221,Male,Delaware,Acquaintance,183
+1222,Male,Delaware,Stranger,147
+1223,Male,Delaware,Wife,75
+1224,Male,Delaware,Girlfriend,57
+1225,Male,Delaware,Son,22
+1226,Male,Delaware,Friend,20
+1227,Male,Delaware,Family,18
+1228,Male,Delaware,In-Law,12
+1229,Male,Delaware,Neighbor,9
+1230,Male,Delaware,Brother,7
+1231,Male,Delaware,Daughter,7
+1232,Male,Delaware,Father,7
+1233,Male,Delaware,Mother,6
+1234,Male,Delaware,Boyfriend/Girlfriend,5
+1235,Male,Delaware,Common-Law Wife,5
+1236,Male,Delaware,Stepfather,4
+1237,Male,Delaware,Ex-Wife,2
+1238,Male,Delaware,Stepmother,2
+1239,Male,Delaware,Employee,1
+1240,Male,Delaware,Employer,1
+1241,Male,Delaware,Husband,1
+1242,Male,Delaware,Sister,1
+1243,Male,Delaware,Stepson,1
+1244,Male,District of Columbia,Stranger,945
+1245,Male,District of Columbia,Unknown,842
+1246,Male,District of Columbia,Acquaintance,202
+1247,Male,District of Columbia,Girlfriend,56
+1248,Male,District of Columbia,Wife,27
+1249,Male,District of Columbia,Brother,24
+1250,Male,District of Columbia,Son,22
+1251,Male,District of Columbia,Family,18
+1252,Male,District of Columbia,Friend,12
+1253,Male,District of Columbia,Father,11
+1254,Male,District of Columbia,Mother,11
+1255,Male,District of Columbia,Common-Law Wife,9
+1256,Male,District of Columbia,Daughter,8
+1257,Male,District of Columbia,Boyfriend/Girlfriend,5
+1258,Male,District of Columbia,Neighbor,5
+1259,Male,District of Columbia,In-Law,4
+1260,Male,District of Columbia,Sister,3
+1261,Male,District of Columbia,Stepson,3
+1262,Male,District of Columbia,Stepfather,2
+1263,Male,District of Columbia,Boyfriend,1
+1264,Male,District of Columbia,Stepmother,1
+1265,Male,Florida,Unknown,14869
+1266,Male,Florida,Stranger,1819
+1267,Male,Florida,Wife,1638
+1268,Male,Florida,Acquaintance,1632
+1269,Male,Florida,Friend,1010
+1270,Male,Florida,Girlfriend,425
+1271,Male,Florida,Son,370
+1272,Male,Florida,Family,364
+1273,Male,Florida,Daughter,226
+1274,Male,Florida,Father,224
+1275,Male,Florida,Brother,198
+1276,Male,Florida,Mother,193
+1277,Male,Florida,Neighbor,112
+1278,Male,Florida,Common-Law Wife,103
+1279,Male,Florida,In-Law,77
+1280,Male,Florida,Ex-Wife,75
+1281,Male,Florida,Boyfriend/Girlfriend,58
+1282,Male,Florida,Sister,48
+1283,Male,Florida,Stepfather,38
+1284,Male,Florida,Stepson,33
+1285,Male,Florida,Husband,20
+1286,Male,Florida,Common-Law Husband,19
+1287,Male,Florida,Employer,17
+1288,Male,Florida,Employee,14
+1289,Male,Florida,Stepdaughter,11
+1290,Male,Florida,Boyfriend,10
+1291,Male,Florida,Stepmother,6
+1292,Male,Florida,Ex-Husband,1
+1293,Male,Georgia,Acquaintance,5547
+1294,Male,Georgia,Stranger,2376
+1295,Male,Georgia,Unknown,1369
+1296,Male,Georgia,Wife,903
+1297,Male,Georgia,Girlfriend,601
+1298,Male,Georgia,Friend,472
+1299,Male,Georgia,Family,326
+1300,Male,Georgia,Neighbor,218
+1301,Male,Georgia,Brother,195
+1302,Male,Georgia,Son,180
+1303,Male,Georgia,Father,132
+1304,Male,Georgia,Common-Law Wife,131
+1305,Male,Georgia,In-Law,126
+1306,Male,Georgia,Daughter,122
+1307,Male,Georgia,Ex-Wife,87
+1308,Male,Georgia,Mother,85
+1309,Male,Georgia,Stepson,58
+1310,Male,Georgia,Stepfather,44
+1311,Male,Georgia,Sister,43
+1312,Male,Georgia,Stepdaughter,34
+1313,Male,Georgia,Boyfriend/Girlfriend,33
+1314,Male,Georgia,Boyfriend,18
+1315,Male,Georgia,Employee,11
+1316,Male,Georgia,Employer,11
+1317,Male,Georgia,Husband,5
+1318,Male,Georgia,Ex-Husband,2
+1319,Male,Georgia,Stepmother,2
+1320,Male,Hawaii,Acquaintance,297
+1321,Male,Hawaii,Stranger,248
+1322,Male,Hawaii,Wife,85
+1323,Male,Hawaii,Girlfriend,71
+1324,Male,Hawaii,Friend,63
+1325,Male,Hawaii,Unknown,45
+1326,Male,Hawaii,Neighbor,32
+1327,Male,Hawaii,Son,28
+1328,Male,Hawaii,Family,19
+1329,Male,Hawaii,Daughter,15
+1330,Male,Hawaii,In-Law,15
+1331,Male,Hawaii,Mother,11
+1332,Male,Hawaii,Brother,7
+1333,Male,Hawaii,Boyfriend/Girlfriend,6
+1334,Male,Hawaii,Ex-Wife,6
+1335,Male,Hawaii,Stepdaughter,5
+1336,Male,Hawaii,Common-Law Wife,3
+1337,Male,Hawaii,Employer,3
+1338,Male,Hawaii,Stepfather,3
+1339,Male,Hawaii,Father,2
+1340,Male,Hawaii,Stepmother,2
+1341,Male,Hawaii,Stepson,2
+1342,Male,Hawaii,Common-Law Husband,1
+1343,Male,Hawaii,Sister,1
+1344,Male,Idaho,Acquaintance,241
+1345,Male,Idaho,Unknown,170
+1346,Male,Idaho,Stranger,124
+1347,Male,Idaho,Wife,99
+1348,Male,Idaho,Friend,54
+1349,Male,Idaho,Girlfriend,39
+1350,Male,Idaho,Son,32
+1351,Male,Idaho,Daughter,22
+1352,Male,Idaho,Family,19
+1353,Male,Idaho,Father,18
+1354,Male,Idaho,In-Law,14
+1355,Male,Idaho,Brother,13
+1356,Male,Idaho,Neighbor,13
+1357,Male,Idaho,Common-Law Wife,10
+1358,Male,Idaho,Ex-Wife,9
+1359,Male,Idaho,Mother,9
+1360,Male,Idaho,Stepson,9
+1361,Male,Idaho,Boyfriend/Girlfriend,5
+1362,Male,Idaho,Sister,3
+1363,Male,Idaho,Stepdaughter,3
+1364,Male,Idaho,Stepfather,3
+1365,Male,Idaho,Employee,2
+1366,Male,Idaho,Employer,2
+1367,Male,Idaho,Husband,1
+1368,Male,Illinois,Stranger,3756
+1369,Male,Illinois,Unknown,3382
+1370,Male,Illinois,Acquaintance,3297
+1371,Male,Illinois,Friend,1086
+1372,Male,Illinois,Girlfriend,500
+1373,Male,Illinois,Wife,394
+1374,Male,Illinois,Neighbor,272
+1375,Male,Illinois,Family,268
+1376,Male,Illinois,Son,187
+1377,Male,Illinois,Brother,149
+1378,Male,Illinois,Common-Law Wife,107
+1379,Male,Illinois,Daughter,106
+1380,Male,Illinois,Father,94
+1381,Male,Illinois,Mother,80
+1382,Male,Illinois,In-Law,77
+1383,Male,Illinois,Boyfriend/Girlfriend,56
+1384,Male,Illinois,Ex-Wife,54
+1385,Male,Illinois,Stepfather,40
+1386,Male,Illinois,Stepson,33
+1387,Male,Illinois,Sister,29
+1388,Male,Illinois,Employer,27
+1389,Male,Illinois,Boyfriend,26
+1390,Male,Illinois,Husband,15
+1391,Male,Illinois,Stepdaughter,15
+1392,Male,Illinois,Employee,13
+1393,Male,Illinois,Stepmother,3
+1394,Male,Illinois,Common-Law Husband,2
+1395,Male,Illinois,Ex-Husband,1
+1396,Male,Indiana,Acquaintance,2779
+1397,Male,Indiana,Stranger,1219
+1398,Male,Indiana,Unknown,1016
+1399,Male,Indiana,Wife,408
+1400,Male,Indiana,Girlfriend,337
+1401,Male,Indiana,Friend,253
+1402,Male,Indiana,Family,134
+1403,Male,Indiana,Son,123
+1404,Male,Indiana,Daughter,99
+1405,Male,Indiana,Brother,96
+1406,Male,Indiana,Neighbor,88
+1407,Male,Indiana,Father,75
+1408,Male,Indiana,Mother,73
+1409,Male,Indiana,Ex-Wife,55
+1410,Male,Indiana,In-Law,52
+1411,Male,Indiana,Stepdaughter,24
+1412,Male,Indiana,Stepfather,22
+1413,Male,Indiana,Employee,14
+1414,Male,Indiana,Sister,14
+1415,Male,Indiana,Stepson,14
+1416,Male,Indiana,Boyfriend/Girlfriend,11
+1417,Male,Indiana,Common-Law Wife,9
+1418,Male,Indiana,Stepmother,9
+1419,Male,Indiana,Employer,5
+1420,Male,Indiana,Boyfriend,4
+1421,Male,Indiana,Husband,3
+1422,Male,Indiana,Ex-Husband,1
+1423,Male,Iowa,Acquaintance,405
+1424,Male,Iowa,Unknown,247
+1425,Male,Iowa,Stranger,201
+1426,Male,Iowa,Wife,132
+1427,Male,Iowa,Girlfriend,96
+1428,Male,Iowa,Son,40
+1429,Male,Iowa,Friend,34
+1430,Male,Iowa,Daughter,29
+1431,Male,Iowa,Family,25
+1432,Male,Iowa,Father,25
+1433,Male,Iowa,Neighbor,20
+1434,Male,Iowa,Mother,17
+1435,Male,Iowa,In-Law,13
+1436,Male,Iowa,Brother,12
+1437,Male,Iowa,Common-Law Wife,10
+1438,Male,Iowa,Ex-Wife,8
+1439,Male,Iowa,Stepdaughter,8
+1440,Male,Iowa,Sister,7
+1441,Male,Iowa,Stepfather,6
+1442,Male,Iowa,Stepson,3
+1443,Male,Iowa,Boyfriend/Girlfriend,2
+1444,Male,Iowa,Employer,2
+1445,Male,Iowa,Stepmother,2
+1446,Male,Iowa,Employee,1
+1447,Male,Kansas,Acquaintance,610
+1448,Male,Kansas,Unknown,483
+1449,Male,Kansas,Stranger,368
+1450,Male,Kansas,Wife,156
+1451,Male,Kansas,Friend,101
+1452,Male,Kansas,Girlfriend,97
+1453,Male,Kansas,Family,47
+1454,Male,Kansas,Son,40
+1455,Male,Kansas,Brother,37
+1456,Male,Kansas,Daughter,35
+1457,Male,Kansas,Neighbor,30
+1458,Male,Kansas,Father,29
+1459,Male,Kansas,Mother,27
+1460,Male,Kansas,Ex-Wife,20
+1461,Male,Kansas,Common-Law Wife,19
+1462,Male,Kansas,In-Law,16
+1463,Male,Kansas,Stepson,13
+1464,Male,Kansas,Stepfather,10
+1465,Male,Kansas,Stepdaughter,9
+1466,Male,Kansas,Boyfriend/Girlfriend,6
+1467,Male,Kansas,Sister,5
+1468,Male,Kansas,Employee,3
+1469,Male,Kansas,Employer,3
+1470,Male,Kansas,Boyfriend,1
+1471,Male,Kentucky,Acquaintance,1611
+1472,Male,Kentucky,Unknown,831
+1473,Male,Kentucky,Stranger,540
+1474,Male,Kentucky,Wife,317
+1475,Male,Kentucky,Girlfriend,175
+1476,Male,Kentucky,Friend,158
+1477,Male,Kentucky,Family,138
+1478,Male,Kentucky,Brother,109
+1479,Male,Kentucky,In-Law,85
+1480,Male,Kentucky,Son,69
+1481,Male,Kentucky,Neighbor,59
+1482,Male,Kentucky,Daughter,58
+1483,Male,Kentucky,Father,51
+1484,Male,Kentucky,Mother,50
+1485,Male,Kentucky,Ex-Wife,45
+1486,Male,Kentucky,Stepfather,24
+1487,Male,Kentucky,Sister,21
+1488,Male,Kentucky,Common-Law Wife,20
+1489,Male,Kentucky,Boyfriend/Girlfriend,16
+1490,Male,Kentucky,Stepson,14
+1491,Male,Kentucky,Stepdaughter,12
+1492,Male,Kentucky,Husband,3
+1493,Male,Kentucky,Stepmother,3
+1494,Male,Kentucky,Employer,2
+1495,Male,Kentucky,Boyfriend,1
+1496,Male,Louisiana,Acquaintance,5029
+1497,Male,Louisiana,Stranger,2351
+1498,Male,Louisiana,Unknown,1948
+1499,Male,Louisiana,Wife,573
+1500,Male,Louisiana,Girlfriend,396
+1501,Male,Louisiana,Friend,285
+1502,Male,Louisiana,Family,269
+1503,Male,Louisiana,Brother,161
+1504,Male,Louisiana,Common-Law Wife,129
+1505,Male,Louisiana,Neighbor,126
+1506,Male,Louisiana,Son,126
+1507,Male,Louisiana,Daughter,100
+1508,Male,Louisiana,In-Law,100
+1509,Male,Louisiana,Father,90
+1510,Male,Louisiana,Mother,64
+1511,Male,Louisiana,Sister,38
+1512,Male,Louisiana,Stepson,37
+1513,Male,Louisiana,Boyfriend/Girlfriend,36
+1514,Male,Louisiana,Stepfather,34
+1515,Male,Louisiana,Ex-Wife,32
+1516,Male,Louisiana,Stepdaughter,14
+1517,Male,Louisiana,Husband,12
+1518,Male,Louisiana,Boyfriend,11
+1519,Male,Louisiana,Employee,9
+1520,Male,Louisiana,Stepmother,9
+1521,Male,Louisiana,Employer,8
+1522,Male,Louisiana,Common-Law Husband,1
+1523,Male,Maine,Acquaintance,198
+1524,Male,Maine,Stranger,119
+1525,Male,Maine,Wife,86
+1526,Male,Maine,Girlfriend,67
+1527,Male,Maine,Unknown,46
+1528,Male,Maine,Friend,42
+1529,Male,Maine,Neighbor,21
+1530,Male,Maine,Mother,19
+1531,Male,Maine,Father,18
+1532,Male,Maine,Son,18
+1533,Male,Maine,Daughter,17
+1534,Male,Maine,In-Law,15
+1535,Male,Maine,Brother,12
+1536,Male,Maine,Family,12
+1537,Male,Maine,Ex-Wife,5
+1538,Male,Maine,Sister,4
+1539,Male,Maine,Stepfather,4
+1540,Male,Maine,Boyfriend/Girlfriend,3
+1541,Male,Maine,Common-Law Wife,3
+1542,Male,Maine,Stepdaughter,3
+1543,Male,Maine,Boyfriend,1
+1544,Male,Maine,Stepson,1
+1545,Male,Maryland,Acquaintance,3038
+1546,Male,Maryland,Unknown,2483
+1547,Male,Maryland,Stranger,1971
+1548,Male,Maryland,Girlfriend,438
+1549,Male,Maryland,Wife,409
+1550,Male,Maryland,Friend,145
+1551,Male,Maryland,Son,132
+1552,Male,Maryland,Family,125
+1553,Male,Maryland,Brother,114
+1554,Male,Maryland,Daughter,105
+1555,Male,Maryland,Mother,81
+1556,Male,Maryland,Father,80
+1557,Male,Maryland,Neighbor,67
+1558,Male,Maryland,In-Law,32
+1559,Male,Maryland,Stepfather,25
+1560,Male,Maryland,Ex-Wife,23
+1561,Male,Maryland,Common-Law Wife,18
+1562,Male,Maryland,Stepson,17
+1563,Male,Maryland,Boyfriend/Girlfriend,16
+1564,Male,Maryland,Stepdaughter,15
+1565,Male,Maryland,Sister,14
+1566,Male,Maryland,Boyfriend,10
+1567,Male,Maryland,Employer,7
+1568,Male,Maryland,Employee,3
+1569,Male,Maryland,Husband,2
+1570,Male,Maryland,Stepmother,1
+1571,Male,Massachusetts,Acquaintance,956
+1572,Male,Massachusetts,Unknown,956
+1573,Male,Massachusetts,Stranger,628
+1574,Male,Massachusetts,Wife,234
+1575,Male,Massachusetts,Girlfriend,210
+1576,Male,Massachusetts,Friend,137
+1577,Male,Massachusetts,Family,64
+1578,Male,Massachusetts,Mother,55
+1579,Male,Massachusetts,Neighbor,54
+1580,Male,Massachusetts,Son,50
+1581,Male,Massachusetts,Father,36
+1582,Male,Massachusetts,Brother,32
+1583,Male,Massachusetts,In-Law,23
+1584,Male,Massachusetts,Daughter,20
+1585,Male,Massachusetts,Ex-Wife,14
+1586,Male,Massachusetts,Common-Law Wife,12
+1587,Male,Massachusetts,Sister,8
+1588,Male,Massachusetts,Stepfather,8
+1589,Male,Massachusetts,Boyfriend/Girlfriend,7
+1590,Male,Massachusetts,Stepson,7
+1591,Male,Massachusetts,Boyfriend,6
+1592,Male,Massachusetts,Employee,4
+1593,Male,Massachusetts,Employer,4
+1594,Male,Massachusetts,Stepdaughter,4
+1595,Male,Massachusetts,Husband,1
+1596,Male,Massachusetts,Stepmother,1
+1597,Male,Michigan,Acquaintance,6010
+1598,Male,Michigan,Unknown,4547
+1599,Male,Michigan,Stranger,2689
+1600,Male,Michigan,Wife,725
+1601,Male,Michigan,Girlfriend,516
+1602,Male,Michigan,Friend,506
+1603,Male,Michigan,Family,311
+1604,Male,Michigan,Son,207
+1605,Male,Michigan,Brother,203
+1606,Male,Michigan,Father,164
+1607,Male,Michigan,Neighbor,160
+1608,Male,Michigan,Daughter,141
+1609,Male,Michigan,Mother,134
+1610,Male,Michigan,Common-Law Wife,84
+1611,Male,Michigan,Ex-Wife,82
+1612,Male,Michigan,In-Law,62
+1613,Male,Michigan,Sister,49
+1614,Male,Michigan,Stepfather,45
+1615,Male,Michigan,Boyfriend/Girlfriend,41
+1616,Male,Michigan,Stepson,27
+1617,Male,Michigan,Employer,18
+1618,Male,Michigan,Employee,14
+1619,Male,Michigan,Stepdaughter,14
+1620,Male,Michigan,Boyfriend,9
+1621,Male,Michigan,Husband,6
+1622,Male,Michigan,Stepmother,4
+1623,Male,Michigan,Common-Law Husband,3
+1624,Male,Michigan,Ex-Husband,2
+1625,Male,Minnesota,Acquaintance,1211
+1626,Male,Minnesota,Stranger,560
+1627,Male,Minnesota,Unknown,255
+1628,Male,Minnesota,Wife,210
+1629,Male,Minnesota,Girlfriend,168
+1630,Male,Minnesota,Son,87
+1631,Male,Minnesota,Friend,77
+1632,Male,Minnesota,Neighbor,59
+1633,Male,Minnesota,Mother,55
+1634,Male,Minnesota,Daughter,44
+1635,Male,Minnesota,Family,43
+1636,Male,Minnesota,Father,40
+1637,Male,Minnesota,Brother,38
+1638,Male,Minnesota,In-Law,17
+1639,Male,Minnesota,Ex-Wife,14
+1640,Male,Minnesota,Sister,12
+1641,Male,Minnesota,Boyfriend/Girlfriend,9
+1642,Male,Minnesota,Employer,8
+1643,Male,Minnesota,Stepfather,7
+1644,Male,Minnesota,Stepdaughter,5
+1645,Male,Minnesota,Common-Law Wife,4
+1646,Male,Minnesota,Employee,4
+1647,Male,Minnesota,Boyfriend,3
+1648,Male,Minnesota,Stepson,3
+1649,Male,Minnesota,Stepmother,2
+1650,Male,Minnesota,Common-Law Husband,1
+1651,Male,Minnesota,Husband,1
+1652,Male,Mississippi,Acquaintance,2098
+1653,Male,Mississippi,Stranger,653
+1654,Male,Mississippi,Unknown,574
+1655,Male,Mississippi,Wife,259
+1656,Male,Mississippi,Girlfriend,218
+1657,Male,Mississippi,Family,148
+1658,Male,Mississippi,Neighbor,121
+1659,Male,Mississippi,Friend,120
+1660,Male,Mississippi,Brother,83
+1661,Male,Mississippi,In-Law,55
+1662,Male,Mississippi,Son,46
+1663,Male,Mississippi,Father,45
+1664,Male,Mississippi,Daughter,37
+1665,Male,Mississippi,Mother,25
+1666,Male,Mississippi,Common-Law Wife,20
+1667,Male,Mississippi,Stepfather,20
+1668,Male,Mississippi,Ex-Wife,16
+1669,Male,Mississippi,Stepdaughter,14
+1670,Male,Mississippi,Sister,12
+1671,Male,Mississippi,Employee,11
+1672,Male,Mississippi,Stepson,9
+1673,Male,Mississippi,Boyfriend,6
+1674,Male,Mississippi,Boyfriend/Girlfriend,6
+1675,Male,Mississippi,Employer,6
+1676,Male,Mississippi,Stepmother,4
+1677,Male,Mississippi,Husband,3
+1678,Male,Mississippi,Ex-Husband,1
+1679,Male,Missouri,Acquaintance,2891
+1680,Male,Missouri,Unknown,1912
+1681,Male,Missouri,Stranger,1341
+1682,Male,Missouri,Wife,437
+1683,Male,Missouri,Girlfriend,347
+1684,Male,Missouri,Friend,256
+1685,Male,Missouri,Family,192
+1686,Male,Missouri,Son,183
+1687,Male,Missouri,Neighbor,141
+1688,Male,Missouri,Brother,117
+1689,Male,Missouri,Daughter,101
+1690,Male,Missouri,Father,79
+1691,Male,Missouri,Mother,71
+1692,Male,Missouri,In-Law,66
+1693,Male,Missouri,Ex-Wife,50
+1694,Male,Missouri,Stepson,35
+1695,Male,Missouri,Stepfather,27
+1696,Male,Missouri,Sister,22
+1697,Male,Missouri,Stepdaughter,19
+1698,Male,Missouri,Employer,15
+1699,Male,Missouri,Boyfriend/Girlfriend,13
+1700,Male,Missouri,Common-Law Wife,11
+1701,Male,Missouri,Boyfriend,8
+1702,Male,Missouri,Employee,5
+1703,Male,Missouri,Stepmother,5
+1704,Male,Missouri,Ex-Husband,1
+1705,Male,Montana,Acquaintance,137
+1706,Male,Montana,Stranger,78
+1707,Male,Montana,Unknown,58
+1708,Male,Montana,Wife,44
+1709,Male,Montana,Girlfriend,36
+1710,Male,Montana,Friend,24
+1711,Male,Montana,Family,18
+1712,Male,Montana,Son,13
+1713,Male,Montana,Mother,10
+1714,Male,Montana,Neighbor,10
+1715,Male,Montana,Brother,9
+1716,Male,Montana,Father,9
+1717,Male,Montana,Common-Law Wife,5
+1718,Male,Montana,Daughter,5
+1719,Male,Montana,Sister,5
+1720,Male,Montana,Stepdaughter,4
+1721,Male,Montana,Stepfather,4
+1722,Male,Montana,Stepson,4
+1723,Male,Montana,In-Law,3
+1724,Male,Montana,Ex-Wife,2
+1725,Male,Montana,Boyfriend/Girlfriend,1
+1726,Male,Nebraska,Acquaintance,285
+1727,Male,Nebraska,Stranger,206
+1728,Male,Nebraska,Wife,96
+1729,Male,Nebraska,Unknown,91
+1730,Male,Nebraska,Friend,77
+1731,Male,Nebraska,Girlfriend,57
+1732,Male,Nebraska,Family,25
+1733,Male,Nebraska,Son,23
+1734,Male,Nebraska,Father,15
+1735,Male,Nebraska,Mother,14
+1736,Male,Nebraska,Neighbor,13
+1737,Male,Nebraska,Daughter,12
+1738,Male,Nebraska,Brother,11
+1739,Male,Nebraska,Ex-Wife,8
+1740,Male,Nebraska,Sister,4
+1741,Male,Nebraska,Boyfriend,3
+1742,Male,Nebraska,Stepdaughter,3
+1743,Male,Nebraska,Boyfriend/Girlfriend,2
+1744,Male,Nebraska,Employer,2
+1745,Male,Nebraska,Stepfather,2
+1746,Male,Nebraska,Stepson,2
+1747,Male,Nebraska,Common-Law Wife,1
+1748,Male,Nebraska,Employee,1
+1749,Male,Nebraska,In-Law,1
+1750,Male,Nebraska,Stepmother,1
+1751,Male,Nevada,Acquaintance,1116
+1752,Male,Nevada,Stranger,820
+1753,Male,Nevada,Unknown,497
+1754,Male,Nevada,Wife,265
+1755,Male,Nevada,Girlfriend,185
+1756,Male,Nevada,Friend,114
+1757,Male,Nevada,Son,53
+1758,Male,Nevada,Neighbor,49
+1759,Male,Nevada,Family,48
+1760,Male,Nevada,Mother,40
+1761,Male,Nevada,Ex-Wife,39
+1762,Male,Nevada,Brother,37
+1763,Male,Nevada,Daughter,37
+1764,Male,Nevada,In-Law,24
+1765,Male,Nevada,Father,20
+1766,Male,Nevada,Stepfather,14
+1767,Male,Nevada,Sister,13
+1768,Male,Nevada,Stepdaughter,9
+1769,Male,Nevada,Common-Law Wife,7
+1770,Male,Nevada,Employee,7
+1771,Male,Nevada,Stepson,7
+1772,Male,Nevada,Boyfriend/Girlfriend,4
+1773,Male,Nevada,Boyfriend,3
+1774,Male,Nevada,Husband,3
+1775,Male,Nevada,Stepmother,3
+1776,Male,Nevada,Employer,1
+1777,Male,New Hampshire,Acquaintance,137
+1778,Male,New Hampshire,Stranger,71
+1779,Male,New Hampshire,Wife,68
+1780,Male,New Hampshire,Unknown,48
+1781,Male,New Hampshire,Girlfriend,32
+1782,Male,New Hampshire,Neighbor,23
+1783,Male,New Hampshire,Friend,20
+1784,Male,New Hampshire,Family,13
+1785,Male,New Hampshire,Father,13
+1786,Male,New Hampshire,Mother,12
+1787,Male,New Hampshire,Ex-Wife,10
+1788,Male,New Hampshire,Brother,9
+1789,Male,New Hampshire,Daughter,9
+1790,Male,New Hampshire,Sister,6
+1791,Male,New Hampshire,Son,6
+1792,Male,New Hampshire,In-Law,3
+1793,Male,New Hampshire,Stepson,3
+1794,Male,New Hampshire,Boyfriend/Girlfriend,2
+1795,Male,New Hampshire,Common-Law Wife,2
+1796,Male,New Hampshire,Employee,1
+1797,Male,New Hampshire,Stepmother,1
+1798,Male,New Jersey,Acquaintance,2767
+1799,Male,New Jersey,Stranger,2129
+1800,Male,New Jersey,Unknown,1180
+1801,Male,New Jersey,Wife,478
+1802,Male,New Jersey,Girlfriend,428
+1803,Male,New Jersey,Friend,207
+1804,Male,New Jersey,Son,150
+1805,Male,New Jersey,Family,149
+1806,Male,New Jersey,Neighbor,133
+1807,Male,New Jersey,Mother,116
+1808,Male,New Jersey,Father,82
+1809,Male,New Jersey,Daughter,80
+1810,Male,New Jersey,Brother,76
+1811,Male,New Jersey,In-Law,39
+1812,Male,New Jersey,Common-Law Wife,25
+1813,Male,New Jersey,Ex-Wife,21
+1814,Male,New Jersey,Stepfather,21
+1815,Male,New Jersey,Stepdaughter,18
+1816,Male,New Jersey,Boyfriend/Girlfriend,17
+1817,Male,New Jersey,Sister,16
+1818,Male,New Jersey,Stepson,10
+1819,Male,New Jersey,Employee,8
+1820,Male,New Jersey,Employer,6
+1821,Male,New Jersey,Boyfriend,4
+1822,Male,New Jersey,Stepmother,4
+1823,Male,New Jersey,Husband,1
+1824,Male,New Mexico,Acquaintance,1024
+1825,Male,New Mexico,Stranger,685
+1826,Male,New Mexico,Unknown,240
+1827,Male,New Mexico,Friend,193
+1828,Male,New Mexico,Wife,139
+1829,Male,New Mexico,Girlfriend,121
+1830,Male,New Mexico,Family,64
+1831,Male,New Mexico,Neighbor,56
+1832,Male,New Mexico,Son,56
+1833,Male,New Mexico,Father,37
+1834,Male,New Mexico,In-Law,34
+1835,Male,New Mexico,Brother,33
+1836,Male,New Mexico,Daughter,31
+1837,Male,New Mexico,Mother,25
+1838,Male,New Mexico,Ex-Wife,18
+1839,Male,New Mexico,Sister,16
+1840,Male,New Mexico,Stepfather,10
+1841,Male,New Mexico,Boyfriend/Girlfriend,7
+1842,Male,New Mexico,Common-Law Wife,5
+1843,Male,New Mexico,Stepdaughter,5
+1844,Male,New Mexico,Stepson,5
+1845,Male,New Mexico,Employer,4
+1846,Male,New Mexico,Stepmother,3
+1847,Male,New Mexico,Boyfriend,2
+1848,Male,New Mexico,Employee,1
+1849,Male,New Mexico,Husband,1
+1850,Male,New York,Unknown,8979
+1851,Male,New York,Stranger,4955
+1852,Male,New York,Acquaintance,4676
+1853,Male,New York,Friend,1673
+1854,Male,New York,Wife,987
+1855,Male,New York,Girlfriend,850
+1856,Male,New York,Family,485
+1857,Male,New York,Son,302
+1858,Male,New York,Common-Law Wife,228
+1859,Male,New York,Brother,221
+1860,Male,New York,Mother,221
+1861,Male,New York,Daughter,179
+1862,Male,New York,Father,172
+1863,Male,New York,Neighbor,98
+1864,Male,New York,Boyfriend/Girlfriend,67
+1865,Male,New York,In-Law,57
+1866,Male,New York,Ex-Wife,45
+1867,Male,New York,Sister,40
+1868,Male,New York,Employee,14
+1869,Male,New York,Stepfather,13
+1870,Male,New York,Stepson,12
+1871,Male,New York,Boyfriend,11
+1872,Male,New York,Stepdaughter,10
+1873,Male,New York,Employer,7
+1874,Male,New York,Husband,6
+1875,Male,New York,Common-Law Husband,5
+1876,Male,New York,Stepmother,4
+1877,Male,North Carolina,Acquaintance,5132
+1878,Male,North Carolina,Unknown,2692
+1879,Male,North Carolina,Stranger,2380
+1880,Male,North Carolina,Wife,897
+1881,Male,North Carolina,Girlfriend,796
+1882,Male,North Carolina,Friend,676
+1883,Male,North Carolina,Family,406
+1884,Male,North Carolina,Brother,252
+1885,Male,North Carolina,Neighbor,196
+1886,Male,North Carolina,Son,183
+1887,Male,North Carolina,Father,168
+1888,Male,North Carolina,In-Law,136
+1889,Male,North Carolina,Mother,106
+1890,Male,North Carolina,Daughter,101
+1891,Male,North Carolina,Ex-Wife,80
+1892,Male,North Carolina,Sister,39
+1893,Male,North Carolina,Stepfather,30
+1894,Male,North Carolina,Common-Law Wife,28
+1895,Male,North Carolina,Stepson,25
+1896,Male,North Carolina,Employer,17
+1897,Male,North Carolina,Boyfriend/Girlfriend,14
+1898,Male,North Carolina,Employee,12
+1899,Male,North Carolina,Stepdaughter,9
+1900,Male,North Carolina,Stepmother,8
+1901,Male,North Carolina,Boyfriend,2
+1902,Male,North Carolina,Husband,1
+1903,Male,North Dakota,Acquaintance,64
+1904,Male,North Dakota,Unknown,39
+1905,Male,North Dakota,Stranger,30
+1906,Male,North Dakota,Wife,29
+1907,Male,North Dakota,Girlfriend,23
+1908,Male,North Dakota,Friend,14
+1909,Male,North Dakota,Brother,10
+1910,Male,North Dakota,Son,8
+1911,Male,North Dakota,Mother,7
+1912,Male,North Dakota,Daughter,6
+1913,Male,North Dakota,Family,5
+1914,Male,North Dakota,Neighbor,5
+1915,Male,North Dakota,Father,4
+1916,Male,North Dakota,Ex-Wife,3
+1917,Male,North Dakota,In-Law,2
+1918,Male,North Dakota,Sister,2
+1919,Male,North Dakota,Stepfather,1
+1920,Male,North Dakota,Stepson,1
+1921,Male,Ohio,Acquaintance,4222
+1922,Male,Ohio,Stranger,2376
+1923,Male,Ohio,Unknown,2211
+1924,Male,Ohio,Wife,729
+1925,Male,Ohio,Girlfriend,500
+1926,Male,Ohio,Friend,385
+1927,Male,Ohio,Family,250
+1928,Male,Ohio,Neighbor,203
+1929,Male,Ohio,Son,201
+1930,Male,Ohio,Daughter,138
+1931,Male,Ohio,Brother,133
+1932,Male,Ohio,Father,132
+1933,Male,Ohio,Mother,115
+1934,Male,Ohio,In-Law,87
+1935,Male,Ohio,Ex-Wife,63
+1936,Male,Ohio,Common-Law Wife,60
+1937,Male,Ohio,Stepson,36
+1938,Male,Ohio,Sister,32
+1939,Male,Ohio,Stepfather,28
+1940,Male,Ohio,Stepdaughter,19
+1941,Male,Ohio,Boyfriend/Girlfriend,14
+1942,Male,Ohio,Employee,7
+1943,Male,Ohio,Employer,6
+1944,Male,Ohio,Stepmother,6
+1945,Male,Ohio,Boyfriend,4
+1946,Male,Oklahoma,Acquaintance,2504
+1947,Male,Oklahoma,Stranger,1471
+1948,Male,Oklahoma,Wife,386
+1949,Male,Oklahoma,Unknown,317
+1950,Male,Oklahoma,Friend,273
+1951,Male,Oklahoma,Girlfriend,250
+1952,Male,Oklahoma,Family,182
+1953,Male,Oklahoma,Son,132
+1954,Male,Oklahoma,Neighbor,122
+1955,Male,Oklahoma,Brother,106
+1956,Male,Oklahoma,In-Law,94
+1957,Male,Oklahoma,Father,93
+1958,Male,Oklahoma,Mother,90
+1959,Male,Oklahoma,Daughter,74
+1960,Male,Oklahoma,Ex-Wife,68
+1961,Male,Oklahoma,Common-Law Wife,63
+1962,Male,Oklahoma,Stepson,50
+1963,Male,Oklahoma,Stepfather,33
+1964,Male,Oklahoma,Stepdaughter,29
+1965,Male,Oklahoma,Sister,26
+1966,Male,Oklahoma,Boyfriend/Girlfriend,20
+1967,Male,Oklahoma,Employer,8
+1968,Male,Oklahoma,Employee,4
+1969,Male,Oklahoma,Stepmother,4
+1970,Male,Oklahoma,Boyfriend,2
+1971,Male,Oregon,Acquaintance,816
+1972,Male,Oregon,Stranger,626
+1973,Male,Oregon,Unknown,403
+1974,Male,Oregon,Wife,297
+1975,Male,Oregon,Friend,286
+1976,Male,Oregon,Girlfriend,174
+1977,Male,Oregon,Son,78
+1978,Male,Oregon,Mother,60
+1979,Male,Oregon,Neighbor,59
+1980,Male,Oregon,Family,56
+1981,Male,Oregon,Daughter,49
+1982,Male,Oregon,Brother,44
+1983,Male,Oregon,Father,40
+1984,Male,Oregon,In-Law,24
+1985,Male,Oregon,Ex-Wife,19
+1986,Male,Oregon,Stepson,15
+1987,Male,Oregon,Boyfriend/Girlfriend,14
+1988,Male,Oregon,Stepfather,13
+1989,Male,Oregon,Sister,12
+1990,Male,Oregon,Common-Law Wife,7
+1991,Male,Oregon,Employer,5
+1992,Male,Oregon,Employee,4
+1993,Male,Oregon,Stepdaughter,3
+1994,Male,Oregon,Boyfriend,2
+1995,Male,Oregon,Ex-Husband,1
+1996,Male,Oregon,Stepmother,1
+1997,Male,Pennsylvania,Unknown,4821
+1998,Male,Pennsylvania,Acquaintance,4633
+1999,Male,Pennsylvania,Stranger,3121
+2000,Male,Pennsylvania,Wife,899
+2001,Male,Pennsylvania,Girlfriend,753
+2002,Male,Pennsylvania,Friend,552
+2003,Male,Pennsylvania,Neighbor,339
+2004,Male,Pennsylvania,Son,284
+2005,Male,Pennsylvania,Family,280
+2006,Male,Pennsylvania,Daughter,181
+2007,Male,Pennsylvania,Brother,175
+2008,Male,Pennsylvania,Mother,160
+2009,Male,Pennsylvania,Father,135
+2010,Male,Pennsylvania,In-Law,86
+2011,Male,Pennsylvania,Common-Law Wife,61
+2012,Male,Pennsylvania,Sister,49
+2013,Male,Pennsylvania,Ex-Wife,40
+2014,Male,Pennsylvania,Stepson,34
+2015,Male,Pennsylvania,Stepfather,26
+2016,Male,Pennsylvania,Stepdaughter,25
+2017,Male,Pennsylvania,Boyfriend/Girlfriend,24
+2018,Male,Pennsylvania,Employee,17
+2019,Male,Pennsylvania,Boyfriend,9
+2020,Male,Pennsylvania,Employer,6
+2021,Male,Pennsylvania,Husband,4
+2022,Male,Pennsylvania,Stepmother,4
+2023,Male,Pennsylvania,Common-Law Husband,3
+2024,Male,Pennsylvania,Ex-Husband,1
+2025,Male,Rhodes Island,Acquaintance,285
+2026,Male,Rhodes Island,Stranger,132
+2027,Male,Rhodes Island,Unknown,118
+2028,Male,Rhodes Island,Girlfriend,52
+2029,Male,Rhodes Island,Wife,42
+2030,Male,Rhodes Island,Friend,28
+2031,Male,Rhodes Island,Mother,16
+2032,Male,Rhodes Island,Neighbor,14
+2033,Male,Rhodes Island,Son,13
+2034,Male,Rhodes Island,Daughter,10
+2035,Male,Rhodes Island,Family,9
+2036,Male,Rhodes Island,Father,8
+2037,Male,Rhodes Island,Brother,6
+2038,Male,Rhodes Island,In-Law,3
+2039,Male,Rhodes Island,Common-Law Wife,2
+2040,Male,Rhodes Island,Ex-Wife,2
+2041,Male,Rhodes Island,Stepdaughter,2
+2042,Male,Rhodes Island,Boyfriend,1
+2043,Male,Rhodes Island,Stepfather,1
+2044,Male,South Carolina,Acquaintance,3563
+2045,Male,South Carolina,Stranger,1723
+2046,Male,South Carolina,Unknown,1059
+2047,Male,South Carolina,Wife,646
+2048,Male,South Carolina,Girlfriend,554
+2049,Male,South Carolina,Friend,362
+2050,Male,South Carolina,Family,302
+2051,Male,South Carolina,Brother,165
+2052,Male,South Carolina,Common-Law Wife,120
+2053,Male,South Carolina,In-Law,115
+2054,Male,South Carolina,Son,111
+2055,Male,South Carolina,Father,105
+2056,Male,South Carolina,Neighbor,82
+2057,Male,South Carolina,Mother,72
+2058,Male,South Carolina,Stepfather,57
+2059,Male,South Carolina,Daughter,55
+2060,Male,South Carolina,Boyfriend/Girlfriend,43
+2061,Male,South Carolina,Ex-Wife,40
+2062,Male,South Carolina,Stepson,35
+2063,Male,South Carolina,Sister,18
+2064,Male,South Carolina,Stepmother,14
+2065,Male,South Carolina,Stepdaughter,12
+2066,Male,South Carolina,Employer,7
+2067,Male,South Carolina,Employee,1
+2068,Male,South Carolina,Ex-Husband,1
+2069,Male,South Dakota,Acquaintance,120
+2070,Male,South Dakota,Stranger,50
+2071,Male,South Dakota,Unknown,41
+2072,Male,South Dakota,Wife,37
+2073,Male,South Dakota,Son,22
+2074,Male,South Dakota,Girlfriend,19
+2075,Male,South Dakota,Friend,17
+2076,Male,South Dakota,Family,11
+2077,Male,South Dakota,Neighbor,10
+2078,Male,South Dakota,Daughter,7
+2079,Male,South Dakota,Father,7
+2080,Male,South Dakota,Mother,4
+2081,Male,South Dakota,Brother,3
+2082,Male,South Dakota,Stepson,3
+2083,Male,South Dakota,Common-Law Wife,2
+2084,Male,South Dakota,Ex-Wife,2
+2085,Male,South Dakota,Stepfather,2
+2086,Male,South Dakota,Boyfriend/Girlfriend,1
+2087,Male,South Dakota,Sister,1
+2088,Male,South Dakota,Stepmother,1
+2089,Male,Tennessee,Acquaintance,4446
+2090,Male,Tennessee,Stranger,2054
+2091,Male,Tennessee,Unknown,1747
+2092,Male,Tennessee,Wife,587
+2093,Male,Tennessee,Girlfriend,494
+2094,Male,Tennessee,Friend,385
+2095,Male,Tennessee,Family,230
+2096,Male,Tennessee,Brother,197
+2097,Male,Tennessee,Neighbor,161
+2098,Male,Tennessee,Son,128
+2099,Male,Tennessee,Father,121
+2100,Male,Tennessee,In-Law,106
+2101,Male,Tennessee,Mother,80
+2102,Male,Tennessee,Daughter,77
+2103,Male,Tennessee,Ex-Wife,59
+2104,Male,Tennessee,Stepfather,41
+2105,Male,Tennessee,Sister,36
+2106,Male,Tennessee,Stepson,36
+2107,Male,Tennessee,Common-Law Wife,25
+2108,Male,Tennessee,Boyfriend/Girlfriend,20
+2109,Male,Tennessee,Stepdaughter,17
+2110,Male,Tennessee,Employer,10
+2111,Male,Tennessee,Employee,7
+2112,Male,Tennessee,Stepmother,5
+2113,Male,Tennessee,Boyfriend,3
+2114,Male,Tennessee,Ex-Husband,2
+2115,Male,Tennessee,Husband,1
+2116,Male,Texas,Acquaintance,13906
+2117,Male,Texas,Stranger,10280
+2118,Male,Texas,Unknown,6505
+2119,Male,Texas,Wife,2497
+2120,Male,Texas,Friend,1756
+2121,Male,Texas,Girlfriend,1167
+2122,Male,Texas,Family,950
+2123,Male,Texas,Neighbor,674
+2124,Male,Texas,In-Law,643
+2125,Male,Texas,Common-Law Wife,546
+2126,Male,Texas,Son,545
+2127,Male,Texas,Brother,540
+2128,Male,Texas,Daughter,397
+2129,Male,Texas,Father,392
+2130,Male,Texas,Mother,286
+2131,Male,Texas,Ex-Wife,260
+2132,Male,Texas,Stepson,232
+2133,Male,Texas,Stepfather,151
+2134,Male,Texas,Stepdaughter,117
+2135,Male,Texas,Boyfriend/Girlfriend,81
+2136,Male,Texas,Sister,79
+2137,Male,Texas,Employer,45
+2138,Male,Texas,Husband,43
+2139,Male,Texas,Employee,39
+2140,Male,Texas,Boyfriend,30
+2141,Male,Texas,Stepmother,17
+2142,Male,Texas,Common-Law Husband,10
+2143,Male,Texas,Ex-Husband,10
+2144,Male,Utah,Acquaintance,396
+2145,Male,Utah,Unknown,316
+2146,Male,Utah,Stranger,258
+2147,Male,Utah,Wife,157
+2148,Male,Utah,Girlfriend,89
+2149,Male,Utah,Friend,53
+2150,Male,Utah,Son,52
+2151,Male,Utah,Daughter,35
+2152,Male,Utah,Brother,27
+2153,Male,Utah,Family,24
+2154,Male,Utah,Ex-Wife,20
+2155,Male,Utah,Neighbor,19
+2156,Male,Utah,Mother,15
+2157,Male,Utah,Father,12
+2158,Male,Utah,Stepson,12
+2159,Male,Utah,Common-Law Wife,11
+2160,Male,Utah,In-Law,11
+2161,Male,Utah,Stepdaughter,9
+2162,Male,Utah,Sister,6
+2163,Male,Utah,Employee,5
+2164,Male,Utah,Stepfather,4
+2165,Male,Utah,Boyfriend/Girlfriend,3
+2166,Male,Utah,Employer,2
+2167,Male,Utah,Ex-Husband,1
+2168,Male,Utah,Husband,1
+2169,Male,Utah,Stepmother,1
+2170,Male,Vermont,Acquaintance,113
+2171,Male,Vermont,Stranger,45
+2172,Male,Vermont,Wife,41
+2173,Male,Vermont,Unknown,33
+2174,Male,Vermont,Friend,22
+2175,Male,Vermont,Girlfriend,18
+2176,Male,Vermont,Neighbor,11
+2177,Male,Vermont,Mother,8
+2178,Male,Vermont,Son,8
+2179,Male,Vermont,Father,7
+2180,Male,Vermont,Family,5
+2181,Male,Vermont,Daughter,4
+2182,Male,Vermont,Stepfather,4
+2183,Male,Vermont,Brother,3
+2184,Male,Vermont,Stepdaughter,3
+2185,Male,Vermont,Boyfriend/Girlfriend,2
+2186,Male,Vermont,Common-Law Wife,1
+2187,Male,Vermont,Employer,1
+2188,Male,Vermont,Ex-Wife,1
+2189,Male,Virginia,Acquaintance,3858
+2190,Male,Virginia,Unknown,2189
+2191,Male,Virginia,Stranger,1598
+2192,Male,Virginia,Wife,815
+2193,Male,Virginia,Girlfriend,556
+2194,Male,Virginia,Friend,342
+2195,Male,Virginia,Family,255
+2196,Male,Virginia,Brother,162
+2197,Male,Virginia,Neighbor,149
+2198,Male,Virginia,Son,149
+2199,Male,Virginia,Father,127
+2200,Male,Virginia,In-Law,103
+2201,Male,Virginia,Daughter,102
+2202,Male,Virginia,Mother,95
+2203,Male,Virginia,Ex-Wife,51
+2204,Male,Virginia,Sister,43
+2205,Male,Virginia,Stepfather,34
+2206,Male,Virginia,Boyfriend/Girlfriend,27
+2207,Male,Virginia,Common-Law Wife,25
+2208,Male,Virginia,Stepson,23
+2209,Male,Virginia,Stepdaughter,22
+2210,Male,Virginia,Employer,15
+2211,Male,Virginia,Employee,10
+2212,Male,Virginia,Stepmother,8
+2213,Male,Virginia,Boyfriend,2
+2214,Male,Virginia,Husband,1
+2215,Male,Washington,Acquaintance,1791
+2216,Male,Washington,Stranger,1177
+2217,Male,Washington,Unknown,635
+2218,Male,Washington,Wife,408
+2219,Male,Washington,Friend,328
+2220,Male,Washington,Girlfriend,295
+2221,Male,Washington,Son,120
+2222,Male,Washington,Neighbor,111
+2223,Male,Washington,Family,102
+2224,Male,Washington,Daughter,83
+2225,Male,Washington,Brother,74
+2226,Male,Washington,Mother,66
+2227,Male,Washington,In-Law,60
+2228,Male,Washington,Father,51
+2229,Male,Washington,Sister,32
+2230,Male,Washington,Ex-Wife,31
+2231,Male,Washington,Boyfriend/Girlfriend,23
+2232,Male,Washington,Stepfather,21
+2233,Male,Washington,Stepson,17
+2234,Male,Washington,Employer,15
+2235,Male,Washington,Stepdaughter,13
+2236,Male,Washington,Common-Law Wife,9
+2237,Male,Washington,Employee,7
+2238,Male,Washington,Stepmother,5
+2239,Male,Washington,Boyfriend,2
+2240,Male,Washington,Ex-Husband,1
+2241,Male,West Virginia,Acquaintance,869
+2242,Male,West Virginia,Stranger,256
+2243,Male,West Virginia,Unknown,256
+2244,Male,West Virginia,Wife,226
+2245,Male,West Virginia,Girlfriend,115
+2246,Male,West Virginia,Neighbor,108
+2247,Male,West Virginia,Friend,86
+2248,Male,West Virginia,Family,79
+2249,Male,West Virginia,Brother,64
+2250,Male,West Virginia,Father,54
+2251,Male,West Virginia,Son,54
+2252,Male,West Virginia,In-Law,49
+2253,Male,West Virginia,Common-Law Wife,28
+2254,Male,West Virginia,Ex-Wife,25
+2255,Male,West Virginia,Mother,25
+2256,Male,West Virginia,Daughter,20
+2257,Male,West Virginia,Stepfather,15
+2258,Male,West Virginia,Stepson,14
+2259,Male,West Virginia,Sister,12
+2260,Male,West Virginia,Stepdaughter,6
+2261,Male,West Virginia,Boyfriend/Girlfriend,5
+2262,Male,West Virginia,Husband,4
+2263,Male,West Virginia,Employee,2
+2264,Male,West Virginia,Boyfriend,1
+2265,Male,West Virginia,Employer,1
+2266,Male,West Virginia,Ex-Husband,1
+2267,Male,West Virginia,Stepmother,1
+2268,Male,Wisconsin,Unknown,1222
+2269,Male,Wisconsin,Acquaintance,1160
+2270,Male,Wisconsin,Stranger,952
+2271,Male,Wisconsin,Friend,247
+2272,Male,Wisconsin,Wife,242
+2273,Male,Wisconsin,Girlfriend,208
+2274,Male,Wisconsin,Family,86
+2275,Male,Wisconsin,Son,80
+2276,Male,Wisconsin,Neighbor,72
+2277,Male,Wisconsin,Daughter,53
+2278,Male,Wisconsin,Father,48
+2279,Male,Wisconsin,Brother,43
+2280,Male,Wisconsin,Mother,39
+2281,Male,Wisconsin,Ex-Wife,34
+2282,Male,Wisconsin,In-Law,19
+2283,Male,Wisconsin,Sister,15
+2284,Male,Wisconsin,Boyfriend/Girlfriend,13
+2285,Male,Wisconsin,Stepson,12
+2286,Male,Wisconsin,Employer,9
+2287,Male,Wisconsin,Stepdaughter,9
+2288,Male,Wisconsin,Stepfather,9
+2289,Male,Wisconsin,Common-Law Wife,8
+2290,Male,Wisconsin,Employee,4
+2291,Male,Wisconsin,Boyfriend,3
+2292,Male,Wisconsin,Stepmother,1
+2293,Male,Wyoming,Acquaintance,165
+2294,Male,Wyoming,Stranger,94
+2295,Male,Wyoming,Wife,59
+2296,Male,Wyoming,Unknown,40
+2297,Male,Wyoming,Friend,31
+2298,Male,Wyoming,Girlfriend,20
+2299,Male,Wyoming,Son,16
+2300,Male,Wyoming,Brother,12
+2301,Male,Wyoming,Neighbor,12
+2302,Male,Wyoming,Family,10
+2303,Male,Wyoming,Daughter,8
+2304,Male,Wyoming,Father,7
+2305,Male,Wyoming,Ex-Wife,6
+2306,Male,Wyoming,In-Law,5
+2307,Male,Wyoming,Mother,5
+2308,Male,Wyoming,Stepson,4
+2309,Male,Wyoming,Common-Law Wife,3
+2310,Male,Wyoming,Employer,3
+2311,Male,Wyoming,Stepfather,3
+2312,Male,Wyoming,Husband,1
+2313,Male,Wyoming,Sister,1
+2314,Male,Wyoming,Stepdaughter,1
+2315,Unknown,Alabama,Unknown,2246
+2316,Unknown,Alabama,Stranger,100
+2317,Unknown,Alabama,Acquaintance,29
+2318,Unknown,Alabama,Friend,10
+2319,Unknown,Alabama,Husband,3
+2320,Unknown,Alabama,Family,2
+2321,Unknown,Alabama,Girlfriend,2
+2322,Unknown,Alabama,Neighbor,2
+2323,Unknown,Alabama,Son,2
+2324,Unknown,Alabama,Brother,1
+2325,Unknown,Alabama,Employee,1
+2326,Unknown,Alabama,Father,1
+2327,Unknown,Alabama,Wife,1
+2328,Unknown,Alaska,Unknown,291
+2329,Unknown,Alaska,Acquaintance,3
+2330,Unknown,Alaska,Stranger,2
+2331,Unknown,Alaska,Wife,1
+2332,Unknown,Arizona,Unknown,3472
+2333,Unknown,Arizona,Stranger,121
+2334,Unknown,Arizona,Acquaintance,38
+2335,Unknown,Arizona,Friend,5
+2336,Unknown,Arizona,Neighbor,3
+2337,Unknown,Arizona,Family,2
+2338,Unknown,Arizona,Daughter,1
+2339,Unknown,Arizona,Girlfriend,1
+2340,Unknown,Arkansas,Unknown,1056
+2341,Unknown,Arkansas,Stranger,37
+2342,Unknown,Arkansas,Acquaintance,12
+2343,Unknown,California,Unknown,30806
+2344,Unknown,California,Stranger,4755
+2345,Unknown,California,Acquaintance,456
+2346,Unknown,California,Friend,123
+2347,Unknown,California,Boyfriend/Girlfriend,83
+2348,Unknown,California,Son,31
+2349,Unknown,California,Daughter,30
+2350,Unknown,California,Family,20
+2351,Unknown,California,Girlfriend,14
+2352,Unknown,California,Wife,10
+2353,Unknown,California,Neighbor,9
+2354,Unknown,California,Husband,6
+2355,Unknown,California,Mother,6
+2356,Unknown,California,Ex-Wife,5
+2357,Unknown,California,Father,4
+2358,Unknown,California,Boyfriend,3
+2359,Unknown,California,Brother,3
+2360,Unknown,California,In-Law,2
+2361,Unknown,California,Common-Law Husband,1
+2362,Unknown,California,Common-Law Wife,1
+2363,Unknown,California,Ex-Husband,1
+2364,Unknown,Colorado,Unknown,1296
+2365,Unknown,Colorado,Stranger,24
+2366,Unknown,Colorado,Acquaintance,6
+2367,Unknown,Colorado,Son,2
+2368,Unknown,Colorado,Daughter,1
+2369,Unknown,Connecticut,Unknown,1577
+2370,Unknown,Connecticut,Stranger,34
+2371,Unknown,Connecticut,Acquaintance,26
+2372,Unknown,Delaware,Unknown,231
+2373,Unknown,Delaware,Stranger,2
+2374,Unknown,District of Columbia,Unknown,4589
+2375,Unknown,District of Columbia,Stranger,65
+2376,Unknown,District of Columbia,Acquaintance,14
+2377,Unknown,District of Columbia,Son,2
+2378,Unknown,District of Columbia,Boyfriend/Girlfriend,1
+2379,Unknown,District of Columbia,Girlfriend,1
+2380,Unknown,District of Columbia,In-Law,1
+2381,Unknown,District of Columbia,Stepfather,1
+2382,Unknown,Florida,Unknown,10387
+2383,Unknown,Florida,Stranger,209
+2384,Unknown,Florida,Acquaintance,67
+2385,Unknown,Florida,Friend,24
+2386,Unknown,Florida,Wife,9
+2387,Unknown,Florida,Girlfriend,7
+2388,Unknown,Florida,Daughter,4
+2389,Unknown,Florida,Husband,4
+2390,Unknown,Florida,Son,4
+2391,Unknown,Florida,Sister,3
+2392,Unknown,Florida,Boyfriend/Girlfriend,2
+2393,Unknown,Florida,Family,2
+2394,Unknown,Florida,Father,2
+2395,Unknown,Florida,Neighbor,2
+2396,Unknown,Florida,Common-Law Husband,1
+2397,Unknown,Florida,Common-Law Wife,1
+2398,Unknown,Florida,Ex-Wife,1
+2399,Unknown,Florida,Mother,1
+2400,Unknown,Georgia,Unknown,5439
+2401,Unknown,Georgia,Stranger,285
+2402,Unknown,Georgia,Acquaintance,108
+2403,Unknown,Georgia,Friend,4
+2404,Unknown,Georgia,Family,2
+2405,Unknown,Georgia,Girlfriend,2
+2406,Unknown,Georgia,Neighbor,2
+2407,Unknown,Georgia,Wife,2
+2408,Unknown,Georgia,Brother,1
+2409,Unknown,Georgia,Daughter,1
+2410,Unknown,Georgia,Sister,1
+2411,Unknown,Georgia,Son,1
+2412,Unknown,Hawaii,Unknown,288
+2413,Unknown,Hawaii,Acquaintance,1
+2414,Unknown,Hawaii,Friend,1
+2415,Unknown,Idaho,Unknown,103
+2416,Unknown,Idaho,Acquaintance,5
+2417,Unknown,Idaho,Stranger,2
+2418,Unknown,Illinois,Unknown,9934
+2419,Unknown,Illinois,Stranger,83
+2420,Unknown,Illinois,Acquaintance,6
+2421,Unknown,Illinois,Boyfriend/Girlfriend,1
+2422,Unknown,Illinois,Family,1
+2423,Unknown,Illinois,Friend,1
+2424,Unknown,Indiana,Unknown,3433
+2425,Unknown,Indiana,Stranger,183
+2426,Unknown,Indiana,Acquaintance,68
+2427,Unknown,Indiana,Employee,2
+2428,Unknown,Indiana,Friend,2
+2429,Unknown,Indiana,Son,2
+2430,Unknown,Indiana,Girlfriend,1
+2431,Unknown,Indiana,Wife,1
+2432,Unknown,Iowa,Unknown,216
+2433,Unknown,Iowa,Stranger,5
+2434,Unknown,Iowa,Acquaintance,3
+2435,Unknown,Iowa,Son,1
+2436,Unknown,Kansas,Unknown,559
+2437,Unknown,Kansas,Stranger,32
+2438,Unknown,Kansas,Acquaintance,6
+2439,Unknown,Kansas,Friend,1
+2440,Unknown,Kentucky,Unknown,1472
+2441,Unknown,Kentucky,Stranger,24
+2442,Unknown,Kentucky,Acquaintance,17
+2443,Unknown,Kentucky,Husband,3
+2444,Unknown,Kentucky,Wife,2
+2445,Unknown,Kentucky,Brother,1
+2446,Unknown,Kentucky,Ex-Husband,1
+2447,Unknown,Kentucky,Girlfriend,1
+2448,Unknown,Kentucky,In-Law,1
+2449,Unknown,Kentucky,Neighbor,1
+2450,Unknown,Louisiana,Unknown,5835
+2451,Unknown,Louisiana,Stranger,160
+2452,Unknown,Louisiana,Acquaintance,48
+2453,Unknown,Louisiana,Common-Law Wife,1
+2454,Unknown,Louisiana,Husband,1
+2455,Unknown,Louisiana,Son,1
+2456,Unknown,Louisiana,Wife,1
+2457,Unknown,Maine,Unknown,90
+2458,Unknown,Maine,Daughter,1
+2459,Unknown,Maine,Stranger,1
+2460,Unknown,Maryland,Unknown,6731
+2461,Unknown,Maryland,Stranger,195
+2462,Unknown,Maryland,Acquaintance,75
+2463,Unknown,Maryland,Girlfriend,2
+2464,Unknown,Maryland,Boyfriend/Girlfriend,1
+2465,Unknown,Massachusetts,Unknown,2098
+2466,Unknown,Massachusetts,Stranger,75
+2467,Unknown,Massachusetts,Acquaintance,28
+2468,Unknown,Massachusetts,Boyfriend,2
+2469,Unknown,Massachusetts,Neighbor,2
+2470,Unknown,Massachusetts,Family,1
+2471,Unknown,Massachusetts,Mother,1
+2472,Unknown,Massachusetts,Son,1
+2473,Unknown,Michigan,Unknown,8886
+2474,Unknown,Michigan,Stranger,276
+2475,Unknown,Michigan,Acquaintance,258
+2476,Unknown,Michigan,Family,3
+2477,Unknown,Michigan,Girlfriend,2
+2478,Unknown,Michigan,Neighbor,2
+2479,Unknown,Michigan,Boyfriend,1
+2480,Unknown,Michigan,Boyfriend/Girlfriend,1
+2481,Unknown,Michigan,Brother,1
+2482,Unknown,Michigan,Friend,1
+2483,Unknown,Michigan,Husband,1
+2484,Unknown,Michigan,Mother,1
+2485,Unknown,Michigan,Stepfather,1
+2486,Unknown,Minnesota,Unknown,667
+2487,Unknown,Minnesota,Stranger,21
+2488,Unknown,Minnesota,Acquaintance,9
+2489,Unknown,Mississippi,Unknown,1015
+2490,Unknown,Mississippi,Stranger,17
+2491,Unknown,Mississippi,Acquaintance,12
+2492,Unknown,Mississippi,Family,1
+2493,Unknown,Missouri,Unknown,5086
+2494,Unknown,Missouri,Stranger,173
+2495,Unknown,Missouri,Acquaintance,79
+2496,Unknown,Missouri,Friend,4
+2497,Unknown,Missouri,Neighbor,4
+2498,Unknown,Missouri,Girlfriend,3
+2499,Unknown,Missouri,Boyfriend,2
+2500,Unknown,Missouri,Family,2
+2501,Unknown,Missouri,Son,2
+2502,Unknown,Missouri,Ex-Husband,1
+2503,Unknown,Missouri,Wife,1
+2504,Unknown,Montana,Unknown,42
+2505,Unknown,Montana,Acquaintance,2
+2506,Unknown,Nebraska,Unknown,216
+2507,Unknown,Nebraska,Stranger,4
+2508,Unknown,Nebraska,Acquaintance,1
+2509,Unknown,Nevada,Unknown,1694
+2510,Unknown,Nevada,Stranger,23
+2511,Unknown,Nevada,Acquaintance,11
+2512,Unknown,New Hampshire,Unknown,104
+2513,Unknown,New Hampshire,Stranger,3
+2514,Unknown,New Hampshire,Friend,1
+2515,Unknown,New Jersey,Unknown,4756
+2516,Unknown,New Jersey,Stranger,188
+2517,Unknown,New Jersey,Acquaintance,93
+2518,Unknown,New Jersey,Wife,7
+2519,Unknown,New Jersey,Friend,6
+2520,Unknown,New Jersey,Girlfriend,6
+2521,Unknown,New Jersey,Boyfriend/Girlfriend,3
+2522,Unknown,New Jersey,Daughter,3
+2523,Unknown,New Jersey,Son,3
+2524,Unknown,New Jersey,Brother,2
+2525,Unknown,New Jersey,Family,2
+2526,Unknown,New Jersey,Neighbor,2
+2527,Unknown,New Jersey,Boyfriend,1
+2528,Unknown,New Jersey,Common-Law Husband,1
+2529,Unknown,New Jersey,In-Law,1
+2530,Unknown,New Jersey,Stepson,1
+2531,Unknown,New Mexico,Unknown,1050
+2532,Unknown,New Mexico,Acquaintance,36
+2533,Unknown,New Mexico,Stranger,23
+2534,Unknown,New Mexico,Employee,1
+2535,Unknown,New Mexico,Friend,1
+2536,Unknown,New Mexico,Son,1
+2537,Unknown,New York,Unknown,20717
+2538,Unknown,New York,Stranger,1401
+2539,Unknown,New York,Acquaintance,417
+2540,Unknown,New York,Family,20
+2541,Unknown,New York,Friend,20
+2542,Unknown,New York,Daughter,9
+2543,Unknown,New York,Girlfriend,5
+2544,Unknown,New York,Son,5
+2545,Unknown,New York,Boyfriend/Girlfriend,4
+2546,Unknown,New York,Brother,4
+2547,Unknown,New York,Husband,3
+2548,Unknown,New York,Common-Law Husband,2
+2549,Unknown,New York,Common-Law Wife,2
+2550,Unknown,New York,Boyfriend,1
+2551,Unknown,New York,Mother,1
+2552,Unknown,New York,Neighbor,1
+2553,Unknown,North Carolina,Unknown,3923
+2554,Unknown,North Carolina,Stranger,57
+2555,Unknown,North Carolina,Acquaintance,24
+2556,Unknown,North Carolina,Friend,12
+2557,Unknown,North Carolina,Wife,6
+2558,Unknown,North Carolina,Brother,3
+2559,Unknown,North Carolina,Family,3
+2560,Unknown,North Carolina,Boyfriend,2
+2561,Unknown,North Carolina,Girlfriend,2
+2562,Unknown,North Carolina,Boyfriend/Girlfriend,1
+2563,Unknown,North Carolina,Father,1
+2564,Unknown,North Carolina,Husband,1
+2565,Unknown,North Carolina,Neighbor,1
+2566,Unknown,North Dakota,Unknown,18
+2567,Unknown,North Dakota,Stranger,3
+2568,Unknown,Ohio,Unknown,5218
+2569,Unknown,Ohio,Stranger,159
+2570,Unknown,Ohio,Acquaintance,40
+2571,Unknown,Ohio,Family,5
+2572,Unknown,Ohio,Friend,2
+2573,Unknown,Ohio,Neighbor,2
+2574,Unknown,Ohio,Daughter,1
+2575,Unknown,Ohio,Ex-Wife,1
+2576,Unknown,Ohio,Girlfriend,1
+2577,Unknown,Oklahoma,Unknown,1473
+2578,Unknown,Oklahoma,Stranger,14
+2579,Unknown,Oklahoma,Acquaintance,2
+2580,Unknown,Oklahoma,In-Law,1
+2581,Unknown,Oregon,Unknown,710
+2582,Unknown,Oregon,Stranger,18
+2583,Unknown,Oregon,Acquaintance,7
+2584,Unknown,Oregon,Boyfriend/Girlfriend,4
+2585,Unknown,Oregon,Friend,1
+2586,Unknown,Oregon,Son,1
+2587,Unknown,Pennsylvania,Unknown,5663
+2588,Unknown,Pennsylvania,Stranger,107
+2589,Unknown,Pennsylvania,Acquaintance,33
+2590,Unknown,Pennsylvania,Wife,2
+2591,Unknown,Pennsylvania,Boyfriend/Girlfriend,1
+2592,Unknown,Pennsylvania,Daughter,1
+2593,Unknown,Pennsylvania,Friend,1
+2594,Unknown,Pennsylvania,Husband,1
+2595,Unknown,Pennsylvania,Son,1
+2596,Unknown,Rhodes Island,Unknown,384
+2597,Unknown,Rhodes Island,Acquaintance,5
+2598,Unknown,Rhodes Island,Stranger,5
+2599,Unknown,Rhodes Island,Friend,1
+2600,Unknown,South Carolina,Unknown,1061
+2601,Unknown,South Carolina,Stranger,19
+2602,Unknown,South Dakota,Unknown,34
+2603,Unknown,South Dakota,Stranger,2
+2604,Unknown,Tennessee,Unknown,2284
+2605,Unknown,Tennessee,Stranger,64
+2606,Unknown,Tennessee,Acquaintance,16
+2607,Unknown,Tennessee,Brother,1
+2608,Unknown,Tennessee,Common-Law Wife,1
+2609,Unknown,Tennessee,Friend,1
+2610,Unknown,Tennessee,Husband,1
+2611,Unknown,Tennessee,Neighbor,1
+2612,Unknown,Texas,Unknown,14504
+2613,Unknown,Texas,Stranger,120
+2614,Unknown,Texas,Acquaintance,41
+2615,Unknown,Texas,Boyfriend,2
+2616,Unknown,Texas,Common-Law Husband,2
+2617,Unknown,Texas,Friend,2
+2618,Unknown,Texas,Girlfriend,2
+2619,Unknown,Texas,Brother,1
+2620,Unknown,Texas,Common-Law Wife,1
+2621,Unknown,Texas,Family,1
+2622,Unknown,Texas,Husband,1
+2623,Unknown,Texas,In-Law,1
+2624,Unknown,Texas,Son,1
+2625,Unknown,Texas,Wife,1
+2626,Unknown,Utah,Unknown,259
+2627,Unknown,Utah,Stranger,21
+2628,Unknown,Utah,Acquaintance,5
+2629,Unknown,Vermont,Unknown,46
+2630,Unknown,Vermont,Acquaintance,1
+2631,Unknown,Vermont,Friend,1
+2632,Unknown,Virginia,Unknown,3215
+2633,Unknown,Virginia,Stranger,58
+2634,Unknown,Virginia,Acquaintance,28
+2635,Unknown,Virginia,Family,1
+2636,Unknown,Virginia,Friend,1
+2637,Unknown,Washington,Unknown,1667
+2638,Unknown,Washington,Stranger,25
+2639,Unknown,Washington,Acquaintance,11
+2640,Unknown,West Virginia,Unknown,303
+2641,Unknown,West Virginia,Stranger,10
+2642,Unknown,West Virginia,Acquaintance,3
+2643,Unknown,West Virginia,In-Law,2
+2644,Unknown,Wisconsin,Unknown,1002
+2645,Unknown,Wisconsin,Stranger,26
+2646,Unknown,Wisconsin,Acquaintance,15
+2647,Unknown,Wisconsin,Neighbor,2
+2648,Unknown,Wisconsin,Friend,1
+2649,Unknown,Wisconsin,Son,1
+2650,Unknown,Wyoming,Unknown,60
+2651,Unknown,Wyoming,Acquaintance,1
